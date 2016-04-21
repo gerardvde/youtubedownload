@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial;
+    padding: 0pt;
+    margin: 0pt;
+}
+
+div {
+    background-color: #aaa;
+    padding: 5pt;
+}
+
+h1 {
+    font-size: 18pt;
+    font-weight: bold;
+    line-height: 20pt;
+    margin: 10pt;
+}
+
+p {
+    font-size: 12pt;
+    margin: 1pt;
+}
+
+input {
+    border-style: none;
+    font-size: 8pt;
+    margin: 2pt;
+    height: 16pt;
+}
+
+input[type="button"] {
+    background-color: #ddd;
+    width: 50pt;
+}
+
+input[type="text"] {
+    background-color: #fff;
+    width: 250pt;
+}
+
+form {
+    margin: 0pt;
+}

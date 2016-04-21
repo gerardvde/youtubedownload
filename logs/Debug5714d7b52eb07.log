@@ -1,0 +1,33 @@
+2016-04-18 12:48:53:initSession
+2016-04-18 12:48:53:End target initSession
+2016-04-18 12:48:53:End initSession
+2016-04-18 12:48:53:executed ./downloadytpl.sh /Users/gerard/youtubedownload/temp/5714d7b52eb07 https://www.youtube.com/watch?v=A5eIRDPUx_k&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt YT5714d7b52eb07.log> PID5714d7b52eb07 2>Error5714d7b52eb07.log &
+2016-04-18 12:48:53:getPID PID5714d7b52eb07 
+2016-04-18 12:48:53:PID  CPID 
+2016-04-18 12:48:53:checkExecResult 0
+2016-04-18 12:48:54:getPID PID5714d7b52eb07 
+2016-04-18 12:48:54:PID  CPID 
+2016-04-18 12:48:54:checkExecResult 1
+2016-04-18 12:48:55:getPID PID5714d7b52eb07 
+2016-04-18 12:48:55:PID  CPID 
+2016-04-18 12:48:55:checkExecResult 2
+2016-04-18 12:48:56:getPID PID5714d7b52eb07 
+2016-04-18 12:48:56:PID  CPID 
+2016-04-18 12:48:56:checkExecResult 3
+2016-04-18 12:48:57:getPID PID5714d7b52eb07 
+2016-04-18 12:48:57:PID  CPID 
+2016-04-18 12:48:57:checkExecResult 4
+2016-04-18 12:48:57:getYTDLLog
+2016-04-18 12:48:57:reportResult {"action":"startdownload","status":"ERROR","data":"Not started  : sh: YT5714d7b52eb07.log: command not found\n"}
+2016-04-18 12:49:23:initSession
+2016-04-18 12:49:23:End target initSession
+2016-04-18 12:49:23:End initSession
+2016-04-18 12:49:23:-------------------------------------------
+2016-04-18 12:49:23:YoutubeDownload initializes current ID 5714d7b52eb07
+2016-04-18 12:49:23:getPID PID5714d7b52eb07 
+2016-04-18 12:49:23:PID  CPID 
+2016-04-18 12:49:23:ACTION startdownload
+2016-04-18 12:49:23:CleanUp
+2016-04-18 12:49:23:getPID PID5714d7b52eb07 
+2016-04-18 12:49:23:PID  CPID 
+2016-04-18 12:49:23:kill process  []

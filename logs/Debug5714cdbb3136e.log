@@ -1,0 +1,22 @@
+2016-04-18 12:06:19:initSession
+2016-04-18 12:06:19:End target initSession
+2016-04-18 12:06:19:End initSession
+2016-04-18 12:06:19:-------------------------------------------
+2016-04-18 12:06:19:YoutubeDownload initializes current ID 5714cdbb3136e
+2016-04-18 12:06:19:getPID PID5714cdbb3136e no file
+2016-04-18 12:06:19:ACTION getprogress
+2016-04-18 12:06:19:start checkProgress YT5714cdbb3136e.log
+2016-04-18 12:06:19:getYTDLLog
+2016-04-18 12:06:19:checkProgress lastline   running ready 
+2016-04-18 12:06:19:getYTDLLog
+2016-04-18 12:06:19:processYTFiles
+2016-04-18 12:06:19:start createFiles /Users/gerard/youtubedownload/temp/5714cdbb3136e
+2016-04-18 12:06:19:start processFiles Resource id #19
+2016-04-18 12:06:19:rename files
+2016-04-18 12:06:19:rename .
+2016-04-18 12:06:19:rename ..
+2016-04-18 12:06:19:remove JSONfiles
+2016-04-18 12:06:19:end createFiles 
+2016-04-18 12:06:19:CleanUp
+2016-04-18 12:06:19:getPID PID5714cdbb3136e no file
+2016-04-18 12:06:19:reportResult {"action":"getprogress","status":"OK","data":"EXECUTION_COMPLETE"}

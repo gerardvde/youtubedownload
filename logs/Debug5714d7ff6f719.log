@@ -1,0 +1,2016 @@
+2016-04-18 12:50:07:initSession
+2016-04-18 12:50:07:End target initSession
+2016-04-18 12:50:07:End initSession
+2016-04-18 12:50:07:executed ./downloadytpl.sh /Users/gerard/youtubedownload/temp/5714d7ff6f719 https://www.youtube.com/playlist?list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt YT5714d7ff6f719.log> PID5714d7ff6f719 2>Error5714d7ff6f719.log &
+2016-04-18 12:50:07:getPID PID5714d7ff6f719 
+2016-04-18 12:50:07:PID  CPID 
+2016-04-18 12:50:07:checkExecResult 0
+2016-04-18 12:50:08:getPID PID5714d7ff6f719 
+2016-04-18 12:50:08:PID 5676 CPID 5678
+2016-04-18 12:50:08:checkExecResult 1
+2016-04-18 12:50:08:reportResult {"action":"startdownload","status":"OK","data":"download started https:\/\/www.youtube.com\/playlist?list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt"}
+2016-04-18 12:50:09:initSession
+2016-04-18 12:50:09:End target initSession
+2016-04-18 12:50:09:End initSession
+2016-04-18 12:50:09:-------------------------------------------
+2016-04-18 12:50:09:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:09:getPID PID5714d7ff6f719 
+2016-04-18 12:50:09:PID 5676 CPID 5678
+2016-04-18 12:50:09:ACTION getprogress
+2016-04-18 12:50:09:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:09:getYTDLLog
+2016-04-18 12:50:09:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:50:09:getYTDLLog
+2016-04-18 12:50:09:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:50:10:initSession
+2016-04-18 12:50:10:End target initSession
+2016-04-18 12:50:10:End initSession
+2016-04-18 12:50:10:-------------------------------------------
+2016-04-18 12:50:10:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:10:getPID PID5714d7ff6f719 
+2016-04-18 12:50:10:PID 5676 CPID 5678
+2016-04-18 12:50:10:ACTION getprogress
+2016-04-18 12:50:10:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:10:getYTDLLog
+2016-04-18 12:50:10:checkProgress lastline  [download]   2.7% of 37.17MiB at  2.11MiB/s ETA 00:17 running running 5678
+2016-04-18 12:50:10:getYTDLLog
+2016-04-18 12:50:10:reportResult {"action":"getprogress","status":"OK","data":"[download]   2.7% of 37.17MiB at  2.11MiB\/s ETA 00:17"}
+2016-04-18 12:50:11:initSession
+2016-04-18 12:50:11:End target initSession
+2016-04-18 12:50:11:End initSession
+2016-04-18 12:50:11:-------------------------------------------
+2016-04-18 12:50:11:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:11:getPID PID5714d7ff6f719 
+2016-04-18 12:50:11:PID 5676 CPID 5678
+2016-04-18 12:50:11:ACTION getprogress
+2016-04-18 12:50:11:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:11:getYTDLLog
+2016-04-18 12:50:11:checkProgress lastline  [download]  10.8% of 37.17MiB at  2.70MiB/s ETA 00:12 running running 5678
+2016-04-18 12:50:11:getYTDLLog
+2016-04-18 12:50:11:reportResult {"action":"getprogress","status":"OK","data":"[download]  10.8% of 37.17MiB at  2.70MiB\/s ETA 00:12"}
+2016-04-18 12:50:12:initSession
+2016-04-18 12:50:12:End target initSession
+2016-04-18 12:50:12:End initSession
+2016-04-18 12:50:12:-------------------------------------------
+2016-04-18 12:50:12:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:12:getPID PID5714d7ff6f719 
+2016-04-18 12:50:12:PID 5676 CPID 5678
+2016-04-18 12:50:12:ACTION getprogress
+2016-04-18 12:50:12:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:12:getYTDLLog
+2016-04-18 12:50:12:checkProgress lastline  [download]  10.8% of 37.17MiB at  2.70MiB/s ETA 00:12 running running 5678
+2016-04-18 12:50:12:getYTDLLog
+2016-04-18 12:50:12:reportResult {"action":"getprogress","status":"OK","data":"[download]  10.8% of 37.17MiB at  2.70MiB\/s ETA 00:12"}
+2016-04-18 12:50:13:initSession
+2016-04-18 12:50:13:End target initSession
+2016-04-18 12:50:13:End initSession
+2016-04-18 12:50:13:-------------------------------------------
+2016-04-18 12:50:13:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:13:getPID PID5714d7ff6f719 
+2016-04-18 12:50:13:PID 5676 CPID 5678
+2016-04-18 12:50:13:ACTION getprogress
+2016-04-18 12:50:13:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:13:getYTDLLog
+2016-04-18 12:50:13:checkProgress lastline  [download]  20.8% of 37.17MiB at  2.76MiB/s ETA 00:10 running running 5678
+2016-04-18 12:50:13:getYTDLLog
+2016-04-18 12:50:13:reportResult {"action":"getprogress","status":"OK","data":"[download]  20.8% of 37.17MiB at  2.76MiB\/s ETA 00:10"}
+2016-04-18 12:50:14:initSession
+2016-04-18 12:50:14:End target initSession
+2016-04-18 12:50:14:End initSession
+2016-04-18 12:50:14:-------------------------------------------
+2016-04-18 12:50:14:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:14:getPID PID5714d7ff6f719 
+2016-04-18 12:50:14:PID 5676 CPID 5678
+2016-04-18 12:50:14:ACTION getprogress
+2016-04-18 12:50:14:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:14:getYTDLLog
+2016-04-18 12:50:14:checkProgress lastline  [download]  36.1% of 37.17MiB at  2.92MiB/s ETA 00:08 running running 5678
+2016-04-18 12:50:14:getYTDLLog
+2016-04-18 12:50:14:reportResult {"action":"getprogress","status":"OK","data":"[download]  36.1% of 37.17MiB at  2.92MiB\/s ETA 00:08"}
+2016-04-18 12:50:15:initSession
+2016-04-18 12:50:15:End target initSession
+2016-04-18 12:50:15:End initSession
+2016-04-18 12:50:15:-------------------------------------------
+2016-04-18 12:50:15:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:15:getPID PID5714d7ff6f719 
+2016-04-18 12:50:15:PID 5676 CPID 5678
+2016-04-18 12:50:15:ACTION getprogress
+2016-04-18 12:50:15:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:15:getYTDLLog
+2016-04-18 12:50:15:checkProgress lastline  [download]  36.1% of 37.17MiB at  2.92MiB/s ETA 00:08 running running 5678
+2016-04-18 12:50:15:getYTDLLog
+2016-04-18 12:50:15:reportResult {"action":"getprogress","status":"OK","data":"[download]  36.1% of 37.17MiB at  2.92MiB\/s ETA 00:08"}
+2016-04-18 12:50:16:initSession
+2016-04-18 12:50:16:End target initSession
+2016-04-18 12:50:16:End initSession
+2016-04-18 12:50:16:-------------------------------------------
+2016-04-18 12:50:16:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:16:getPID PID5714d7ff6f719 
+2016-04-18 12:50:16:PID 5676 CPID 5678
+2016-04-18 12:50:16:ACTION getprogress
+2016-04-18 12:50:16:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:16:getYTDLLog
+2016-04-18 12:50:16:checkProgress lastline  [download]  45.6% of 37.17MiB at  2.75MiB/s ETA 00:07 running running 5678
+2016-04-18 12:50:16:getYTDLLog
+2016-04-18 12:50:16:reportResult {"action":"getprogress","status":"OK","data":"[download]  45.6% of 37.17MiB at  2.75MiB\/s ETA 00:07"}
+2016-04-18 12:50:17:initSession
+2016-04-18 12:50:17:End target initSession
+2016-04-18 12:50:17:End initSession
+2016-04-18 12:50:17:-------------------------------------------
+2016-04-18 12:50:17:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:17:getPID PID5714d7ff6f719 
+2016-04-18 12:50:17:PID 5676 CPID 5678
+2016-04-18 12:50:17:ACTION getprogress
+2016-04-18 12:50:17:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:17:getYTDLLog
+2016-04-18 12:50:17:checkProgress lastline  [download]  51.7% of 37.17MiB at  2.64MiB/s ETA 00:06 running running 5678
+2016-04-18 12:50:17:getYTDLLog
+2016-04-18 12:50:17:reportResult {"action":"getprogress","status":"OK","data":"[download]  51.7% of 37.17MiB at  2.64MiB\/s ETA 00:06"}
+2016-04-18 12:50:18:initSession
+2016-04-18 12:50:18:End target initSession
+2016-04-18 12:50:18:End initSession
+2016-04-18 12:50:18:-------------------------------------------
+2016-04-18 12:50:18:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:18:getPID PID5714d7ff6f719 
+2016-04-18 12:50:18:PID 5676 CPID 5678
+2016-04-18 12:50:18:ACTION getprogress
+2016-04-18 12:50:18:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:18:getYTDLLog
+2016-04-18 12:50:18:checkProgress lastline  [download]  57.2% of 37.17MiB at  2.60MiB/s ETA 00:06 running running 5678
+2016-04-18 12:50:18:getYTDLLog
+2016-04-18 12:50:18:reportResult {"action":"getprogress","status":"OK","data":"[download]  57.2% of 37.17MiB at  2.60MiB\/s ETA 00:06"}
+2016-04-18 12:50:19:initSession
+2016-04-18 12:50:19:End target initSession
+2016-04-18 12:50:19:End initSession
+2016-04-18 12:50:19:-------------------------------------------
+2016-04-18 12:50:19:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:19:getPID PID5714d7ff6f719 
+2016-04-18 12:50:19:PID 5676 CPID 5678
+2016-04-18 12:50:19:ACTION getprogress
+2016-04-18 12:50:19:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:19:getYTDLLog
+2016-04-18 12:50:19:checkProgress lastline  [download]  63.1% of 37.17MiB at  2.51MiB/s ETA 00:05 running running 5678
+2016-04-18 12:50:19:getYTDLLog
+2016-04-18 12:50:19:reportResult {"action":"getprogress","status":"OK","data":"[download]  63.1% of 37.17MiB at  2.51MiB\/s ETA 00:05"}
+2016-04-18 12:50:20:initSession
+2016-04-18 12:50:20:End target initSession
+2016-04-18 12:50:20:End initSession
+2016-04-18 12:50:20:-------------------------------------------
+2016-04-18 12:50:20:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:20:getPID PID5714d7ff6f719 
+2016-04-18 12:50:20:PID 5676 CPID 5678
+2016-04-18 12:50:20:ACTION getprogress
+2016-04-18 12:50:20:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:20:getYTDLLog
+2016-04-18 12:50:20:checkProgress lastline  [download]  68.3% of 37.17MiB at  2.47MiB/s ETA 00:04 running running 5678
+2016-04-18 12:50:20:getYTDLLog
+2016-04-18 12:50:20:reportResult {"action":"getprogress","status":"OK","data":"[download]  68.3% of 37.17MiB at  2.47MiB\/s ETA 00:04"}
+2016-04-18 12:50:21:initSession
+2016-04-18 12:50:21:End target initSession
+2016-04-18 12:50:21:End initSession
+2016-04-18 12:50:21:-------------------------------------------
+2016-04-18 12:50:21:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:21:getPID PID5714d7ff6f719 
+2016-04-18 12:50:21:PID 5676 CPID 5678
+2016-04-18 12:50:21:ACTION getprogress
+2016-04-18 12:50:21:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:21:getYTDLLog
+2016-04-18 12:50:21:checkProgress lastline  [download]  73.8% of 37.17MiB at  2.39MiB/s ETA 00:04 running running 5678
+2016-04-18 12:50:21:getYTDLLog
+2016-04-18 12:50:21:reportResult {"action":"getprogress","status":"OK","data":"[download]  73.8% of 37.17MiB at  2.39MiB\/s ETA 00:04"}
+2016-04-18 12:50:22:initSession
+2016-04-18 12:50:22:End target initSession
+2016-04-18 12:50:22:End initSession
+2016-04-18 12:50:22:-------------------------------------------
+2016-04-18 12:50:22:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:22:getPID PID5714d7ff6f719 
+2016-04-18 12:50:22:PID 5676 CPID 5678
+2016-04-18 12:50:22:ACTION getprogress
+2016-04-18 12:50:22:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:22:getYTDLLog
+2016-04-18 12:50:22:checkProgress lastline  [download]  78.4% of 37.17MiB at  2.39MiB/s ETA 00:03 running running 5678
+2016-04-18 12:50:22:getYTDLLog
+2016-04-18 12:50:22:reportResult {"action":"getprogress","status":"OK","data":"[download]  78.4% of 37.17MiB at  2.39MiB\/s ETA 00:03"}
+2016-04-18 12:50:23:initSession
+2016-04-18 12:50:23:End target initSession
+2016-04-18 12:50:23:End initSession
+2016-04-18 12:50:23:-------------------------------------------
+2016-04-18 12:50:23:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:23:getPID PID5714d7ff6f719 
+2016-04-18 12:50:23:PID 5676 CPID 5678
+2016-04-18 12:50:23:ACTION getprogress
+2016-04-18 12:50:23:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:23:getYTDLLog
+2016-04-18 12:50:23:checkProgress lastline  [download]  84.7% of 37.17MiB at  2.33MiB/s ETA 00:02 running running 5678
+2016-04-18 12:50:23:getYTDLLog
+2016-04-18 12:50:23:reportResult {"action":"getprogress","status":"OK","data":"[download]  84.7% of 37.17MiB at  2.33MiB\/s ETA 00:02"}
+2016-04-18 12:50:24:initSession
+2016-04-18 12:50:24:End target initSession
+2016-04-18 12:50:24:End initSession
+2016-04-18 12:50:24:-------------------------------------------
+2016-04-18 12:50:24:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:24:getPID PID5714d7ff6f719 
+2016-04-18 12:50:24:PID 5676 CPID 5678
+2016-04-18 12:50:24:ACTION getprogress
+2016-04-18 12:50:24:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:24:getYTDLLog
+2016-04-18 12:50:24:checkProgress lastline  [download]  89.6% of 37.17MiB at  2.35MiB/s ETA 00:01 running running 5678
+2016-04-18 12:50:24:getYTDLLog
+2016-04-18 12:50:24:reportResult {"action":"getprogress","status":"OK","data":"[download]  89.6% of 37.17MiB at  2.35MiB\/s ETA 00:01"}
+2016-04-18 12:50:25:initSession
+2016-04-18 12:50:25:End target initSession
+2016-04-18 12:50:25:End initSession
+2016-04-18 12:50:25:-------------------------------------------
+2016-04-18 12:50:25:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:25:getPID PID5714d7ff6f719 
+2016-04-18 12:50:25:PID 5676 CPID 5678
+2016-04-18 12:50:25:ACTION getprogress
+2016-04-18 12:50:25:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:25:getYTDLLog
+2016-04-18 12:50:25:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:50:25:getYTDLLog
+2016-04-18 12:50:25:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:50:26:initSession
+2016-04-18 12:50:26:End target initSession
+2016-04-18 12:50:26:End initSession
+2016-04-18 12:50:26:-------------------------------------------
+2016-04-18 12:50:26:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:26:getPID PID5714d7ff6f719 
+2016-04-18 12:50:26:PID 5676 CPID 5678
+2016-04-18 12:50:26:ACTION getprogress
+2016-04-18 12:50:26:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:26:getYTDLLog
+2016-04-18 12:50:26:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:50:26:getYTDLLog
+2016-04-18 12:50:26:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:50:27:initSession
+2016-04-18 12:50:27:End target initSession
+2016-04-18 12:50:27:End initSession
+2016-04-18 12:50:27:-------------------------------------------
+2016-04-18 12:50:27:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:27:getPID PID5714d7ff6f719 
+2016-04-18 12:50:27:PID 5676 CPID 5678
+2016-04-18 12:50:27:ACTION getprogress
+2016-04-18 12:50:27:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:27:getYTDLLog
+2016-04-18 12:50:27:checkProgress lastline  [download]   1.7% of 28.94MiB at  1.85MiB/s ETA 00:15 running running 5678
+2016-04-18 12:50:27:getYTDLLog
+2016-04-18 12:50:27:reportResult {"action":"getprogress","status":"OK","data":"[download]   1.7% of 28.94MiB at  1.85MiB\/s ETA 00:15"}
+2016-04-18 12:50:28:initSession
+2016-04-18 12:50:28:End target initSession
+2016-04-18 12:50:28:End initSession
+2016-04-18 12:50:28:-------------------------------------------
+2016-04-18 12:50:28:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:28:getPID PID5714d7ff6f719 
+2016-04-18 12:50:28:PID 5676 CPID 5678
+2016-04-18 12:50:28:ACTION getprogress
+2016-04-18 12:50:28:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:28:getYTDLLog
+2016-04-18 12:50:28:checkProgress lastline  [download]   6.9% of 28.94MiB at  2.35MiB/s ETA 00:11 running running 5678
+2016-04-18 12:50:28:getYTDLLog
+2016-04-18 12:50:28:reportResult {"action":"getprogress","status":"OK","data":"[download]   6.9% of 28.94MiB at  2.35MiB\/s ETA 00:11"}
+2016-04-18 12:50:29:initSession
+2016-04-18 12:50:29:End target initSession
+2016-04-18 12:50:29:End initSession
+2016-04-18 12:50:29:-------------------------------------------
+2016-04-18 12:50:29:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:29:getPID PID5714d7ff6f719 
+2016-04-18 12:50:29:PID 5676 CPID 5678
+2016-04-18 12:50:29:ACTION getprogress
+2016-04-18 12:50:29:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:29:getYTDLLog
+2016-04-18 12:50:29:checkProgress lastline  [download]  13.8% of 28.94MiB at  2.29MiB/s ETA 00:10 running running 5678
+2016-04-18 12:50:29:getYTDLLog
+2016-04-18 12:50:29:reportResult {"action":"getprogress","status":"OK","data":"[download]  13.8% of 28.94MiB at  2.29MiB\/s ETA 00:10"}
+2016-04-18 12:50:30:initSession
+2016-04-18 12:50:30:End target initSession
+2016-04-18 12:50:30:End initSession
+2016-04-18 12:50:30:-------------------------------------------
+2016-04-18 12:50:30:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:30:getPID PID5714d7ff6f719 
+2016-04-18 12:50:30:PID 5676 CPID 5678
+2016-04-18 12:50:30:ACTION getprogress
+2016-04-18 12:50:30:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:30:getYTDLLog
+2016-04-18 12:50:30:checkProgress lastline  [download]  21.5% of 28.94MiB at  2.50MiB/s ETA 00:09 running running 5678
+2016-04-18 12:50:30:getYTDLLog
+2016-04-18 12:50:30:reportResult {"action":"getprogress","status":"OK","data":"[download]  21.5% of 28.94MiB at  2.50MiB\/s ETA 00:09"}
+2016-04-18 12:50:31:initSession
+2016-04-18 12:50:31:End target initSession
+2016-04-18 12:50:31:End initSession
+2016-04-18 12:50:31:-------------------------------------------
+2016-04-18 12:50:31:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:31:getPID PID5714d7ff6f719 
+2016-04-18 12:50:31:PID 5676 CPID 5678
+2016-04-18 12:50:31:ACTION getprogress
+2016-04-18 12:50:31:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:31:getYTDLLog
+2016-04-18 12:50:31:checkProgress lastline  [download]  31.9% of 28.94MiB at  2.48MiB/s ETA 00:07 running running 5678
+2016-04-18 12:50:31:getYTDLLog
+2016-04-18 12:50:31:reportResult {"action":"getprogress","status":"OK","data":"[download]  31.9% of 28.94MiB at  2.48MiB\/s ETA 00:07"}
+2016-04-18 12:50:32:initSession
+2016-04-18 12:50:32:End target initSession
+2016-04-18 12:50:32:End initSession
+2016-04-18 12:50:32:-------------------------------------------
+2016-04-18 12:50:32:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:32:getPID PID5714d7ff6f719 
+2016-04-18 12:50:32:PID 5676 CPID 5678
+2016-04-18 12:50:32:ACTION getprogress
+2016-04-18 12:50:32:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:32:getYTDLLog
+2016-04-18 12:50:32:checkProgress lastline  [download]  40.4% of 28.94MiB at  2.52MiB/s ETA 00:06 running running 5678
+2016-04-18 12:50:32:getYTDLLog
+2016-04-18 12:50:32:reportResult {"action":"getprogress","status":"OK","data":"[download]  40.4% of 28.94MiB at  2.52MiB\/s ETA 00:06"}
+2016-04-18 12:50:33:initSession
+2016-04-18 12:50:33:End target initSession
+2016-04-18 12:50:33:End initSession
+2016-04-18 12:50:33:-------------------------------------------
+2016-04-18 12:50:33:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:33:getPID PID5714d7ff6f719 
+2016-04-18 12:50:33:PID 5676 CPID 5678
+2016-04-18 12:50:33:ACTION getprogress
+2016-04-18 12:50:33:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:33:getYTDLLog
+2016-04-18 12:50:33:checkProgress lastline  [download]  49.5% of 28.94MiB at  2.46MiB/s ETA 00:05 running running 5678
+2016-04-18 12:50:33:getYTDLLog
+2016-04-18 12:50:33:reportResult {"action":"getprogress","status":"OK","data":"[download]  49.5% of 28.94MiB at  2.46MiB\/s ETA 00:05"}
+2016-04-18 12:50:34:initSession
+2016-04-18 12:50:34:End target initSession
+2016-04-18 12:50:34:End initSession
+2016-04-18 12:50:34:-------------------------------------------
+2016-04-18 12:50:34:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:34:getPID PID5714d7ff6f719 
+2016-04-18 12:50:34:PID 5676 CPID 5678
+2016-04-18 12:50:34:ACTION getprogress
+2016-04-18 12:50:34:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:34:getYTDLLog
+2016-04-18 12:50:34:checkProgress lastline  [download]  57.3% of 28.94MiB at  2.46MiB/s ETA 00:05 running running 5678
+2016-04-18 12:50:34:getYTDLLog
+2016-04-18 12:50:34:reportResult {"action":"getprogress","status":"OK","data":"[download]  57.3% of 28.94MiB at  2.46MiB\/s ETA 00:05"}
+2016-04-18 12:50:35:initSession
+2016-04-18 12:50:35:End target initSession
+2016-04-18 12:50:35:End initSession
+2016-04-18 12:50:35:-------------------------------------------
+2016-04-18 12:50:35:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:35:getPID PID5714d7ff6f719 
+2016-04-18 12:50:35:PID 5676 CPID 5678
+2016-04-18 12:50:35:ACTION getprogress
+2016-04-18 12:50:35:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:35:getYTDLLog
+2016-04-18 12:50:35:checkProgress lastline  [download]  65.9% of 28.94MiB at  2.45MiB/s ETA 00:04 running running 5678
+2016-04-18 12:50:35:getYTDLLog
+2016-04-18 12:50:35:reportResult {"action":"getprogress","status":"OK","data":"[download]  65.9% of 28.94MiB at  2.45MiB\/s ETA 00:04"}
+2016-04-18 12:50:36:initSession
+2016-04-18 12:50:36:End target initSession
+2016-04-18 12:50:36:End initSession
+2016-04-18 12:50:36:-------------------------------------------
+2016-04-18 12:50:36:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:36:getPID PID5714d7ff6f719 
+2016-04-18 12:50:36:PID 5676 CPID 5678
+2016-04-18 12:50:36:ACTION getprogress
+2016-04-18 12:50:36:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:36:getYTDLLog
+2016-04-18 12:50:36:checkProgress lastline  [download]  73.9% of 28.94MiB at  2.36MiB/s ETA 00:03 running running 5678
+2016-04-18 12:50:36:getYTDLLog
+2016-04-18 12:50:36:reportResult {"action":"getprogress","status":"OK","data":"[download]  73.9% of 28.94MiB at  2.36MiB\/s ETA 00:03"}
+2016-04-18 12:50:37:initSession
+2016-04-18 12:50:37:End target initSession
+2016-04-18 12:50:37:End initSession
+2016-04-18 12:50:37:-------------------------------------------
+2016-04-18 12:50:37:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:37:getPID PID5714d7ff6f719 
+2016-04-18 12:50:37:PID 5676 CPID 5678
+2016-04-18 12:50:37:ACTION getprogress
+2016-04-18 12:50:37:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:37:getYTDLLog
+2016-04-18 12:50:37:checkProgress lastline  [download]  80.2% of 28.94MiB at  2.29MiB/s ETA 00:02 running running 5678
+2016-04-18 12:50:37:getYTDLLog
+2016-04-18 12:50:37:reportResult {"action":"getprogress","status":"OK","data":"[download]  80.2% of 28.94MiB at  2.29MiB\/s ETA 00:02"}
+2016-04-18 12:50:38:initSession
+2016-04-18 12:50:38:End target initSession
+2016-04-18 12:50:38:End initSession
+2016-04-18 12:50:38:-------------------------------------------
+2016-04-18 12:50:38:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:38:getPID PID5714d7ff6f719 
+2016-04-18 12:50:38:PID 5676 CPID 5678
+2016-04-18 12:50:38:ACTION getprogress
+2016-04-18 12:50:38:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:38:getYTDLLog
+2016-04-18 12:50:38:checkProgress lastline  [download]  86.1% of 28.94MiB at  2.26MiB/s ETA 00:01 running running 5678
+2016-04-18 12:50:38:getYTDLLog
+2016-04-18 12:50:38:reportResult {"action":"getprogress","status":"OK","data":"[download]  86.1% of 28.94MiB at  2.26MiB\/s ETA 00:01"}
+2016-04-18 12:50:39:initSession
+2016-04-18 12:50:39:End target initSession
+2016-04-18 12:50:39:End initSession
+2016-04-18 12:50:39:-------------------------------------------
+2016-04-18 12:50:39:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:39:getPID PID5714d7ff6f719 
+2016-04-18 12:50:39:PID 5676 CPID 5678
+2016-04-18 12:50:39:ACTION getprogress
+2016-04-18 12:50:39:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:39:getYTDLLog
+2016-04-18 12:50:39:checkProgress lastline  [download]  92.6% of 28.94MiB at  2.18MiB/s ETA 00:00 running running 5678
+2016-04-18 12:50:39:getYTDLLog
+2016-04-18 12:50:39:reportResult {"action":"getprogress","status":"OK","data":"[download]  92.6% of 28.94MiB at  2.18MiB\/s ETA 00:00"}
+2016-04-18 12:50:40:initSession
+2016-04-18 12:50:40:End target initSession
+2016-04-18 12:50:40:End initSession
+2016-04-18 12:50:40:-------------------------------------------
+2016-04-18 12:50:40:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:40:getPID PID5714d7ff6f719 
+2016-04-18 12:50:40:PID 5676 CPID 5678
+2016-04-18 12:50:40:ACTION getprogress
+2016-04-18 12:50:40:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:40:getYTDLLog
+2016-04-18 12:50:40:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:50:40:getYTDLLog
+2016-04-18 12:50:40:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:50:41:initSession
+2016-04-18 12:50:41:End target initSession
+2016-04-18 12:50:41:End initSession
+2016-04-18 12:50:41:-------------------------------------------
+2016-04-18 12:50:41:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:41:getPID PID5714d7ff6f719 
+2016-04-18 12:50:41:PID 5676 CPID 5678
+2016-04-18 12:50:41:ACTION getprogress
+2016-04-18 12:50:41:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:41:getYTDLLog
+2016-04-18 12:50:41:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:50:41:getYTDLLog
+2016-04-18 12:50:41:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:50:42:initSession
+2016-04-18 12:50:42:End target initSession
+2016-04-18 12:50:42:End initSession
+2016-04-18 12:50:42:-------------------------------------------
+2016-04-18 12:50:42:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:42:getPID PID5714d7ff6f719 
+2016-04-18 12:50:42:PID 5676 CPID 5678
+2016-04-18 12:50:42:ACTION getprogress
+2016-04-18 12:50:42:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:42:getYTDLLog
+2016-04-18 12:50:42:checkProgress lastline  [download]   2.7% of 36.66MiB at  1.96MiB/s ETA 00:18 running running 5678
+2016-04-18 12:50:42:getYTDLLog
+2016-04-18 12:50:42:reportResult {"action":"getprogress","status":"OK","data":"[download]   2.7% of 36.66MiB at  1.96MiB\/s ETA 00:18"}
+2016-04-18 12:50:43:initSession
+2016-04-18 12:50:43:End target initSession
+2016-04-18 12:50:43:End initSession
+2016-04-18 12:50:43:-------------------------------------------
+2016-04-18 12:50:43:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:43:getPID PID5714d7ff6f719 
+2016-04-18 12:50:43:PID 5676 CPID 5678
+2016-04-18 12:50:43:ACTION getprogress
+2016-04-18 12:50:43:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:43:getYTDLLog
+2016-04-18 12:50:43:checkProgress lastline  [download]   5.5% of 36.66MiB at  2.30MiB/s ETA 00:15 running running 5678
+2016-04-18 12:50:43:getYTDLLog
+2016-04-18 12:50:43:reportResult {"action":"getprogress","status":"OK","data":"[download]   5.5% of 36.66MiB at  2.30MiB\/s ETA 00:15"}
+2016-04-18 12:50:44:initSession
+2016-04-18 12:50:44:End target initSession
+2016-04-18 12:50:44:End initSession
+2016-04-18 12:50:44:-------------------------------------------
+2016-04-18 12:50:44:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:44:getPID PID5714d7ff6f719 
+2016-04-18 12:50:44:PID 5676 CPID 5678
+2016-04-18 12:50:44:ACTION getprogress
+2016-04-18 12:50:44:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:44:getYTDLLog
+2016-04-18 12:50:44:checkProgress lastline  [download]  10.9% of 36.66MiB at  2.35MiB/s ETA 00:13 running running 5678
+2016-04-18 12:50:44:getYTDLLog
+2016-04-18 12:50:44:reportResult {"action":"getprogress","status":"OK","data":"[download]  10.9% of 36.66MiB at  2.35MiB\/s ETA 00:13"}
+2016-04-18 12:50:45:initSession
+2016-04-18 12:50:45:End target initSession
+2016-04-18 12:50:45:End initSession
+2016-04-18 12:50:45:-------------------------------------------
+2016-04-18 12:50:45:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:45:getPID PID5714d7ff6f719 
+2016-04-18 12:50:45:PID 5676 CPID 5678
+2016-04-18 12:50:45:ACTION getprogress
+2016-04-18 12:50:45:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:45:getYTDLLog
+2016-04-18 12:50:45:checkProgress lastline  [download]  17.5% of 36.66MiB at  2.38MiB/s ETA 00:12 running running 5678
+2016-04-18 12:50:45:getYTDLLog
+2016-04-18 12:50:45:reportResult {"action":"getprogress","status":"OK","data":"[download]  17.5% of 36.66MiB at  2.38MiB\/s ETA 00:12"}
+2016-04-18 12:50:46:initSession
+2016-04-18 12:50:46:End target initSession
+2016-04-18 12:50:46:End initSession
+2016-04-18 12:50:46:-------------------------------------------
+2016-04-18 12:50:46:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:46:getPID PID5714d7ff6f719 
+2016-04-18 12:50:46:PID 5676 CPID 5678
+2016-04-18 12:50:46:ACTION getprogress
+2016-04-18 12:50:46:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:46:getYTDLLog
+2016-04-18 12:50:46:checkProgress lastline  [download]  24.1% of 36.66MiB at  2.17MiB/s ETA 00:12 running running 5678
+2016-04-18 12:50:46:getYTDLLog
+2016-04-18 12:50:46:reportResult {"action":"getprogress","status":"OK","data":"[download]  24.1% of 36.66MiB at  2.17MiB\/s ETA 00:12"}
+2016-04-18 12:50:47:initSession
+2016-04-18 12:50:47:End target initSession
+2016-04-18 12:50:47:End initSession
+2016-04-18 12:50:47:-------------------------------------------
+2016-04-18 12:50:47:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:47:getPID PID5714d7ff6f719 
+2016-04-18 12:50:47:PID 5676 CPID 5678
+2016-04-18 12:50:47:ACTION getprogress
+2016-04-18 12:50:47:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:47:getYTDLLog
+2016-04-18 12:50:47:checkProgress lastline  [download]  28.9% of 36.66MiB at  2.06MiB/s ETA 00:12 running running 5678
+2016-04-18 12:50:47:getYTDLLog
+2016-04-18 12:50:47:reportResult {"action":"getprogress","status":"OK","data":"[download]  28.9% of 36.66MiB at  2.06MiB\/s ETA 00:12"}
+2016-04-18 12:50:48:initSession
+2016-04-18 12:50:48:End target initSession
+2016-04-18 12:50:48:End initSession
+2016-04-18 12:50:48:-------------------------------------------
+2016-04-18 12:50:48:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:48:getPID PID5714d7ff6f719 
+2016-04-18 12:50:48:PID 5676 CPID 5678
+2016-04-18 12:50:48:ACTION getprogress
+2016-04-18 12:50:48:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:48:getYTDLLog
+2016-04-18 12:50:48:checkProgress lastline  [download]  33.4% of 36.66MiB at  2.10MiB/s ETA 00:11 running running 5678
+2016-04-18 12:50:48:getYTDLLog
+2016-04-18 12:50:48:reportResult {"action":"getprogress","status":"OK","data":"[download]  33.4% of 36.66MiB at  2.10MiB\/s ETA 00:11"}
+2016-04-18 12:50:49:initSession
+2016-04-18 12:50:49:End target initSession
+2016-04-18 12:50:49:End initSession
+2016-04-18 12:50:49:-------------------------------------------
+2016-04-18 12:50:49:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:49:getPID PID5714d7ff6f719 
+2016-04-18 12:50:49:PID 5676 CPID 5678
+2016-04-18 12:50:49:ACTION getprogress
+2016-04-18 12:50:49:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:49:getYTDLLog
+2016-04-18 12:50:49:checkProgress lastline  [download]  40.0% of 36.66MiB at  2.19MiB/s ETA 00:10 running running 5678
+2016-04-18 12:50:49:getYTDLLog
+2016-04-18 12:50:49:reportResult {"action":"getprogress","status":"OK","data":"[download]  40.0% of 36.66MiB at  2.19MiB\/s ETA 00:10"}
+2016-04-18 12:50:50:initSession
+2016-04-18 12:50:50:End target initSession
+2016-04-18 12:50:50:End initSession
+2016-04-18 12:50:50:-------------------------------------------
+2016-04-18 12:50:50:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:50:getPID PID5714d7ff6f719 
+2016-04-18 12:50:50:PID 5676 CPID 5678
+2016-04-18 12:50:50:ACTION getprogress
+2016-04-18 12:50:50:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:50:getYTDLLog
+2016-04-18 12:50:50:checkProgress lastline  [download]  47.5% of 36.66MiB at  2.20MiB/s ETA 00:08 running running 5678
+2016-04-18 12:50:50:getYTDLLog
+2016-04-18 12:50:50:reportResult {"action":"getprogress","status":"OK","data":"[download]  47.5% of 36.66MiB at  2.20MiB\/s ETA 00:08"}
+2016-04-18 12:50:51:initSession
+2016-04-18 12:50:51:End target initSession
+2016-04-18 12:50:51:End initSession
+2016-04-18 12:50:51:-------------------------------------------
+2016-04-18 12:50:51:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:51:getPID PID5714d7ff6f719 
+2016-04-18 12:50:51:PID 5676 CPID 5678
+2016-04-18 12:50:51:ACTION getprogress
+2016-04-18 12:50:51:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:51:getYTDLLog
+2016-04-18 12:50:51:checkProgress lastline  [download]  53.7% of 36.66MiB at  2.24MiB/s ETA 00:07 running running 5678
+2016-04-18 12:50:51:getYTDLLog
+2016-04-18 12:50:51:reportResult {"action":"getprogress","status":"OK","data":"[download]  53.7% of 36.66MiB at  2.24MiB\/s ETA 00:07"}
+2016-04-18 12:50:52:initSession
+2016-04-18 12:50:52:End target initSession
+2016-04-18 12:50:52:End initSession
+2016-04-18 12:50:52:-------------------------------------------
+2016-04-18 12:50:52:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:52:getPID PID5714d7ff6f719 
+2016-04-18 12:50:52:PID 5676 CPID 5678
+2016-04-18 12:50:52:ACTION getprogress
+2016-04-18 12:50:52:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:52:getYTDLLog
+2016-04-18 12:50:52:checkProgress lastline  [download]  60.8% of 36.66MiB at  2.24MiB/s ETA 00:06 running running 5678
+2016-04-18 12:50:52:getYTDLLog
+2016-04-18 12:50:52:reportResult {"action":"getprogress","status":"OK","data":"[download]  60.8% of 36.66MiB at  2.24MiB\/s ETA 00:06"}
+2016-04-18 12:50:53:initSession
+2016-04-18 12:50:53:End target initSession
+2016-04-18 12:50:53:End initSession
+2016-04-18 12:50:53:-------------------------------------------
+2016-04-18 12:50:53:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:53:getPID PID5714d7ff6f719 
+2016-04-18 12:50:53:PID 5676 CPID 5678
+2016-04-18 12:50:53:ACTION getprogress
+2016-04-18 12:50:53:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:53:getYTDLLog
+2016-04-18 12:50:53:checkProgress lastline  [download]  60.8% of 36.66MiB at  2.24MiB/s ETA 00:06 running running 5678
+2016-04-18 12:50:53:getYTDLLog
+2016-04-18 12:50:53:reportResult {"action":"getprogress","status":"OK","data":"[download]  60.8% of 36.66MiB at  2.24MiB\/s ETA 00:06"}
+2016-04-18 12:50:54:initSession
+2016-04-18 12:50:54:End target initSession
+2016-04-18 12:50:54:End initSession
+2016-04-18 12:50:54:-------------------------------------------
+2016-04-18 12:50:54:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:54:getPID PID5714d7ff6f719 
+2016-04-18 12:50:54:PID 5676 CPID 5678
+2016-04-18 12:50:54:ACTION getprogress
+2016-04-18 12:50:54:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:54:getYTDLLog
+2016-04-18 12:50:54:checkProgress lastline  [download]  69.9% of 36.66MiB at  2.05MiB/s ETA 00:05 running running 5678
+2016-04-18 12:50:54:getYTDLLog
+2016-04-18 12:50:54:reportResult {"action":"getprogress","status":"OK","data":"[download]  69.9% of 36.66MiB at  2.05MiB\/s ETA 00:05"}
+2016-04-18 12:50:55:initSession
+2016-04-18 12:50:55:End target initSession
+2016-04-18 12:50:55:End initSession
+2016-04-18 12:50:55:-------------------------------------------
+2016-04-18 12:50:55:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:55:getPID PID5714d7ff6f719 
+2016-04-18 12:50:55:PID 5676 CPID 5678
+2016-04-18 12:50:55:ACTION getprogress
+2016-04-18 12:50:55:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:55:getYTDLLog
+2016-04-18 12:50:55:checkProgress lastline  [download]  74.9% of 36.66MiB at  2.03MiB/s ETA 00:04 running running 5678
+2016-04-18 12:50:55:getYTDLLog
+2016-04-18 12:50:55:reportResult {"action":"getprogress","status":"OK","data":"[download]  74.9% of 36.66MiB at  2.03MiB\/s ETA 00:04"}
+2016-04-18 12:50:56:initSession
+2016-04-18 12:50:56:End target initSession
+2016-04-18 12:50:56:End initSession
+2016-04-18 12:50:56:-------------------------------------------
+2016-04-18 12:50:56:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:56:getPID PID5714d7ff6f719 
+2016-04-18 12:50:56:PID 5676 CPID 5678
+2016-04-18 12:50:56:ACTION getprogress
+2016-04-18 12:50:56:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:56:getYTDLLog
+2016-04-18 12:50:56:checkProgress lastline  [download]  79.8% of 36.66MiB at  2.04MiB/s ETA 00:03 running running 5678
+2016-04-18 12:50:56:getYTDLLog
+2016-04-18 12:50:56:reportResult {"action":"getprogress","status":"OK","data":"[download]  79.8% of 36.66MiB at  2.04MiB\/s ETA 00:03"}
+2016-04-18 12:50:57:initSession
+2016-04-18 12:50:57:End target initSession
+2016-04-18 12:50:57:End initSession
+2016-04-18 12:50:57:-------------------------------------------
+2016-04-18 12:50:57:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:57:getPID PID5714d7ff6f719 
+2016-04-18 12:50:57:PID 5676 CPID 5678
+2016-04-18 12:50:57:ACTION getprogress
+2016-04-18 12:50:57:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:57:getYTDLLog
+2016-04-18 12:50:57:checkProgress lastline  [download]  86.0% of 36.66MiB at  2.05MiB/s ETA 00:02 running running 5678
+2016-04-18 12:50:57:getYTDLLog
+2016-04-18 12:50:57:reportResult {"action":"getprogress","status":"OK","data":"[download]  86.0% of 36.66MiB at  2.05MiB\/s ETA 00:02"}
+2016-04-18 12:50:58:initSession
+2016-04-18 12:50:58:End target initSession
+2016-04-18 12:50:58:End initSession
+2016-04-18 12:50:58:-------------------------------------------
+2016-04-18 12:50:58:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:58:getPID PID5714d7ff6f719 
+2016-04-18 12:50:58:PID 5676 CPID 5678
+2016-04-18 12:50:58:ACTION getprogress
+2016-04-18 12:50:58:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:58:getYTDLLog
+2016-04-18 12:50:58:checkProgress lastline  [download]  91.8% of 36.66MiB at  2.07MiB/s ETA 00:01 running running 5678
+2016-04-18 12:50:58:getYTDLLog
+2016-04-18 12:50:58:reportResult {"action":"getprogress","status":"OK","data":"[download]  91.8% of 36.66MiB at  2.07MiB\/s ETA 00:01"}
+2016-04-18 12:50:59:initSession
+2016-04-18 12:50:59:End target initSession
+2016-04-18 12:50:59:End initSession
+2016-04-18 12:50:59:-------------------------------------------
+2016-04-18 12:50:59:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:50:59:getPID PID5714d7ff6f719 
+2016-04-18 12:50:59:PID 5676 CPID 5678
+2016-04-18 12:50:59:ACTION getprogress
+2016-04-18 12:50:59:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:50:59:getYTDLLog
+2016-04-18 12:50:59:checkProgress lastline  [download] 100.0% of 36.66MiB at  2.09MiB/s ETA 00:00 running running 5678
+2016-04-18 12:50:59:getYTDLLog
+2016-04-18 12:50:59:reportResult {"action":"getprogress","status":"OK","data":"[download] 100.0% of 36.66MiB at  2.09MiB\/s ETA 00:00"}
+2016-04-18 12:51:00:initSession
+2016-04-18 12:51:00:End target initSession
+2016-04-18 12:51:00:End initSession
+2016-04-18 12:51:00:-------------------------------------------
+2016-04-18 12:51:00:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:00:getPID PID5714d7ff6f719 
+2016-04-18 12:51:00:PID 5676 CPID 5678
+2016-04-18 12:51:00:ACTION getprogress
+2016-04-18 12:51:00:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:00:getYTDLLog
+2016-04-18 12:51:00:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:00:getYTDLLog
+2016-04-18 12:51:00:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:01:initSession
+2016-04-18 12:51:01:End target initSession
+2016-04-18 12:51:01:End initSession
+2016-04-18 12:51:01:-------------------------------------------
+2016-04-18 12:51:01:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:01:getPID PID5714d7ff6f719 
+2016-04-18 12:51:01:PID 5676 CPID 5678
+2016-04-18 12:51:01:ACTION getprogress
+2016-04-18 12:51:01:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:01:getYTDLLog
+2016-04-18 12:51:01:checkProgress lastline  [download]   4.2% of 23.59MiB at  2.27MiB/s ETA 00:09 running running 5678
+2016-04-18 12:51:01:getYTDLLog
+2016-04-18 12:51:01:reportResult {"action":"getprogress","status":"OK","data":"[download]   4.2% of 23.59MiB at  2.27MiB\/s ETA 00:09"}
+2016-04-18 12:51:02:initSession
+2016-04-18 12:51:02:End target initSession
+2016-04-18 12:51:02:End initSession
+2016-04-18 12:51:02:-------------------------------------------
+2016-04-18 12:51:02:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:02:getPID PID5714d7ff6f719 
+2016-04-18 12:51:02:PID 5676 CPID 5678
+2016-04-18 12:51:02:ACTION getprogress
+2016-04-18 12:51:02:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:02:getYTDLLog
+2016-04-18 12:51:02:checkProgress lastline  [download]   8.5% of 23.59MiB at  2.74MiB/s ETA 00:07 running running 5678
+2016-04-18 12:51:02:getYTDLLog
+2016-04-18 12:51:02:reportResult {"action":"getprogress","status":"OK","data":"[download]   8.5% of 23.59MiB at  2.74MiB\/s ETA 00:07"}
+2016-04-18 12:51:03:initSession
+2016-04-18 12:51:03:End target initSession
+2016-04-18 12:51:03:End initSession
+2016-04-18 12:51:03:-------------------------------------------
+2016-04-18 12:51:03:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:03:getPID PID5714d7ff6f719 
+2016-04-18 12:51:03:PID 5676 CPID 5678
+2016-04-18 12:51:03:ACTION getprogress
+2016-04-18 12:51:03:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:03:getYTDLLog
+2016-04-18 12:51:03:checkProgress lastline  [download]  26.3% of 23.59MiB at  2.70MiB/s ETA 00:06 running running 5678
+2016-04-18 12:51:03:getYTDLLog
+2016-04-18 12:51:03:reportResult {"action":"getprogress","status":"OK","data":"[download]  26.3% of 23.59MiB at  2.70MiB\/s ETA 00:06"}
+2016-04-18 12:51:04:initSession
+2016-04-18 12:51:04:End target initSession
+2016-04-18 12:51:04:End initSession
+2016-04-18 12:51:04:-------------------------------------------
+2016-04-18 12:51:04:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:04:getPID PID5714d7ff6f719 
+2016-04-18 12:51:04:PID 5676 CPID 5678
+2016-04-18 12:51:04:ACTION getprogress
+2016-04-18 12:51:04:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:04:getYTDLLog
+2016-04-18 12:51:04:checkProgress lastline  [download]  26.3% of 23.59MiB at  2.70MiB/s ETA 00:06 running running 5678
+2016-04-18 12:51:04:getYTDLLog
+2016-04-18 12:51:04:reportResult {"action":"getprogress","status":"OK","data":"[download]  26.3% of 23.59MiB at  2.70MiB\/s ETA 00:06"}
+2016-04-18 12:51:05:initSession
+2016-04-18 12:51:05:End target initSession
+2016-04-18 12:51:05:End initSession
+2016-04-18 12:51:05:-------------------------------------------
+2016-04-18 12:51:05:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:05:getPID PID5714d7ff6f719 
+2016-04-18 12:51:05:PID 5676 CPID 5678
+2016-04-18 12:51:05:ACTION getprogress
+2016-04-18 12:51:05:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:05:getYTDLLog
+2016-04-18 12:51:05:checkProgress lastline  [download]  40.6% of 23.59MiB at  2.63MiB/s ETA 00:05 running running 5678
+2016-04-18 12:51:05:getYTDLLog
+2016-04-18 12:51:05:reportResult {"action":"getprogress","status":"OK","data":"[download]  40.6% of 23.59MiB at  2.63MiB\/s ETA 00:05"}
+2016-04-18 12:51:06:initSession
+2016-04-18 12:51:06:End target initSession
+2016-04-18 12:51:06:End initSession
+2016-04-18 12:51:06:-------------------------------------------
+2016-04-18 12:51:06:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:06:getPID PID5714d7ff6f719 
+2016-04-18 12:51:06:PID 5676 CPID 5678
+2016-04-18 12:51:06:ACTION getprogress
+2016-04-18 12:51:06:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:06:getYTDLLog
+2016-04-18 12:51:06:checkProgress lastline  [download]  51.2% of 23.59MiB at  2.66MiB/s ETA 00:04 running running 5678
+2016-04-18 12:51:06:getYTDLLog
+2016-04-18 12:51:06:reportResult {"action":"getprogress","status":"OK","data":"[download]  51.2% of 23.59MiB at  2.66MiB\/s ETA 00:04"}
+2016-04-18 12:51:07:initSession
+2016-04-18 12:51:07:End target initSession
+2016-04-18 12:51:07:End initSession
+2016-04-18 12:51:07:-------------------------------------------
+2016-04-18 12:51:07:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:07:getPID PID5714d7ff6f719 
+2016-04-18 12:51:07:PID 5676 CPID 5678
+2016-04-18 12:51:07:ACTION getprogress
+2016-04-18 12:51:07:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:07:getYTDLLog
+2016-04-18 12:51:07:checkProgress lastline  [download]  63.0% of 23.59MiB at  2.55MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:07:getYTDLLog
+2016-04-18 12:51:07:reportResult {"action":"getprogress","status":"OK","data":"[download]  63.0% of 23.59MiB at  2.55MiB\/s ETA 00:03"}
+2016-04-18 12:51:08:initSession
+2016-04-18 12:51:08:End target initSession
+2016-04-18 12:51:08:End initSession
+2016-04-18 12:51:08:-------------------------------------------
+2016-04-18 12:51:08:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:08:getPID PID5714d7ff6f719 
+2016-04-18 12:51:08:PID 5676 CPID 5678
+2016-04-18 12:51:08:ACTION getprogress
+2016-04-18 12:51:08:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:08:getYTDLLog
+2016-04-18 12:51:08:checkProgress lastline  [download]  72.2% of 23.59MiB at  2.56MiB/s ETA 00:02 running running 5678
+2016-04-18 12:51:08:getYTDLLog
+2016-04-18 12:51:08:reportResult {"action":"getprogress","status":"OK","data":"[download]  72.2% of 23.59MiB at  2.56MiB\/s ETA 00:02"}
+2016-04-18 12:51:09:initSession
+2016-04-18 12:51:09:End target initSession
+2016-04-18 12:51:09:End initSession
+2016-04-18 12:51:09:-------------------------------------------
+2016-04-18 12:51:09:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:09:getPID PID5714d7ff6f719 
+2016-04-18 12:51:09:PID 5676 CPID 5678
+2016-04-18 12:51:09:ACTION getprogress
+2016-04-18 12:51:09:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:09:getYTDLLog
+2016-04-18 12:51:09:checkProgress lastline  [download]  83.4% of 23.59MiB at  2.54MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:09:getYTDLLog
+2016-04-18 12:51:09:reportResult {"action":"getprogress","status":"OK","data":"[download]  83.4% of 23.59MiB at  2.54MiB\/s ETA 00:01"}
+2016-04-18 12:51:10:initSession
+2016-04-18 12:51:10:End target initSession
+2016-04-18 12:51:10:End initSession
+2016-04-18 12:51:10:-------------------------------------------
+2016-04-18 12:51:10:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:10:getPID PID5714d7ff6f719 
+2016-04-18 12:51:10:PID 5676 CPID 5678
+2016-04-18 12:51:10:ACTION getprogress
+2016-04-18 12:51:10:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:10:getYTDLLog
+2016-04-18 12:51:10:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:10:getYTDLLog
+2016-04-18 12:51:10:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:11:initSession
+2016-04-18 12:51:11:End target initSession
+2016-04-18 12:51:11:End initSession
+2016-04-18 12:51:11:-------------------------------------------
+2016-04-18 12:51:11:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:11:getPID PID5714d7ff6f719 
+2016-04-18 12:51:11:PID 5676 CPID 5678
+2016-04-18 12:51:11:ACTION getprogress
+2016-04-18 12:51:11:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:11:getYTDLLog
+2016-04-18 12:51:11:checkProgress lastline  [download]   0.3% of 39.60MiB at  1.01MiB/s ETA 00:39 running running 5678
+2016-04-18 12:51:11:getYTDLLog
+2016-04-18 12:51:11:reportResult {"action":"getprogress","status":"OK","data":"[download]   0.3% of 39.60MiB at  1.01MiB\/s ETA 00:39"}
+2016-04-18 12:51:12:initSession
+2016-04-18 12:51:12:End target initSession
+2016-04-18 12:51:12:End initSession
+2016-04-18 12:51:12:-------------------------------------------
+2016-04-18 12:51:12:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:12:getPID PID5714d7ff6f719 
+2016-04-18 12:51:12:PID 5676 CPID 5678
+2016-04-18 12:51:12:ACTION getprogress
+2016-04-18 12:51:12:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:12:getYTDLLog
+2016-04-18 12:51:12:checkProgress lastline  [download]   2.5% of 39.60MiB at  1.55MiB/s ETA 00:24 running running 5678
+2016-04-18 12:51:12:getYTDLLog
+2016-04-18 12:51:12:reportResult {"action":"getprogress","status":"OK","data":"[download]   2.5% of 39.60MiB at  1.55MiB\/s ETA 00:24"}
+2016-04-18 12:51:13:initSession
+2016-04-18 12:51:13:End target initSession
+2016-04-18 12:51:13:End initSession
+2016-04-18 12:51:13:-------------------------------------------
+2016-04-18 12:51:13:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:13:getPID PID5714d7ff6f719 
+2016-04-18 12:51:13:PID 5676 CPID 5678
+2016-04-18 12:51:13:ACTION getprogress
+2016-04-18 12:51:13:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:13:getYTDLLog
+2016-04-18 12:51:13:checkProgress lastline  [download]   9.9% of 39.60MiB at  2.15MiB/s ETA 00:16 running running 5678
+2016-04-18 12:51:13:getYTDLLog
+2016-04-18 12:51:13:reportResult {"action":"getprogress","status":"OK","data":"[download]   9.9% of 39.60MiB at  2.15MiB\/s ETA 00:16"}
+2016-04-18 12:51:14:initSession
+2016-04-18 12:51:14:End target initSession
+2016-04-18 12:51:14:End initSession
+2016-04-18 12:51:14:-------------------------------------------
+2016-04-18 12:51:14:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:14:getPID PID5714d7ff6f719 
+2016-04-18 12:51:14:PID 5676 CPID 5678
+2016-04-18 12:51:14:ACTION getprogress
+2016-04-18 12:51:14:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:14:getYTDLLog
+2016-04-18 12:51:14:checkProgress lastline  [download]  17.3% of 39.60MiB at  2.30MiB/s ETA 00:14 running running 5678
+2016-04-18 12:51:14:getYTDLLog
+2016-04-18 12:51:14:reportResult {"action":"getprogress","status":"OK","data":"[download]  17.3% of 39.60MiB at  2.30MiB\/s ETA 00:14"}
+2016-04-18 12:51:15:initSession
+2016-04-18 12:51:15:End target initSession
+2016-04-18 12:51:15:End initSession
+2016-04-18 12:51:15:-------------------------------------------
+2016-04-18 12:51:15:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:15:getPID PID5714d7ff6f719 
+2016-04-18 12:51:15:PID 5676 CPID 5678
+2016-04-18 12:51:15:ACTION getprogress
+2016-04-18 12:51:15:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:15:getYTDLLog
+2016-04-18 12:51:15:checkProgress lastline  [download]  23.7% of 39.60MiB at  2.43MiB/s ETA 00:12 running running 5678
+2016-04-18 12:51:15:getYTDLLog
+2016-04-18 12:51:15:reportResult {"action":"getprogress","status":"OK","data":"[download]  23.7% of 39.60MiB at  2.43MiB\/s ETA 00:12"}
+2016-04-18 12:51:16:initSession
+2016-04-18 12:51:16:End target initSession
+2016-04-18 12:51:16:End initSession
+2016-04-18 12:51:16:-------------------------------------------
+2016-04-18 12:51:16:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:16:getPID PID5714d7ff6f719 
+2016-04-18 12:51:16:PID 5676 CPID 5678
+2016-04-18 12:51:16:ACTION getprogress
+2016-04-18 12:51:16:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:16:getYTDLLog
+2016-04-18 12:51:16:checkProgress lastline  [download]  30.9% of 39.60MiB at  2.42MiB/s ETA 00:11 running running 5678
+2016-04-18 12:51:16:getYTDLLog
+2016-04-18 12:51:16:reportResult {"action":"getprogress","status":"OK","data":"[download]  30.9% of 39.60MiB at  2.42MiB\/s ETA 00:11"}
+2016-04-18 12:51:17:initSession
+2016-04-18 12:51:17:End target initSession
+2016-04-18 12:51:17:End initSession
+2016-04-18 12:51:17:-------------------------------------------
+2016-04-18 12:51:17:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:17:getPID PID5714d7ff6f719 
+2016-04-18 12:51:17:PID 5676 CPID 5678
+2016-04-18 12:51:17:ACTION getprogress
+2016-04-18 12:51:17:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:17:getYTDLLog
+2016-04-18 12:51:17:checkProgress lastline  [download]  36.9% of 39.60MiB at  2.54MiB/s ETA 00:09 running running 5678
+2016-04-18 12:51:17:getYTDLLog
+2016-04-18 12:51:17:reportResult {"action":"getprogress","status":"OK","data":"[download]  36.9% of 39.60MiB at  2.54MiB\/s ETA 00:09"}
+2016-04-18 12:51:18:initSession
+2016-04-18 12:51:18:End target initSession
+2016-04-18 12:51:18:End initSession
+2016-04-18 12:51:18:-------------------------------------------
+2016-04-18 12:51:18:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:18:getPID PID5714d7ff6f719 
+2016-04-18 12:51:18:PID 5676 CPID 5678
+2016-04-18 12:51:18:ACTION getprogress
+2016-04-18 12:51:18:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:18:getYTDLLog
+2016-04-18 12:51:18:checkProgress lastline  [download]  45.6% of 39.60MiB at  2.64MiB/s ETA 00:08 running running 5678
+2016-04-18 12:51:18:getYTDLLog
+2016-04-18 12:51:18:reportResult {"action":"getprogress","status":"OK","data":"[download]  45.6% of 39.60MiB at  2.64MiB\/s ETA 00:08"}
+2016-04-18 12:51:19:initSession
+2016-04-18 12:51:19:End target initSession
+2016-04-18 12:51:19:End initSession
+2016-04-18 12:51:19:-------------------------------------------
+2016-04-18 12:51:19:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:19:getPID PID5714d7ff6f719 
+2016-04-18 12:51:19:PID 5676 CPID 5678
+2016-04-18 12:51:19:ACTION getprogress
+2016-04-18 12:51:19:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:19:getYTDLLog
+2016-04-18 12:51:19:checkProgress lastline  [download]  45.6% of 39.60MiB at  2.64MiB/s ETA 00:08 running running 5678
+2016-04-18 12:51:19:getYTDLLog
+2016-04-18 12:51:19:reportResult {"action":"getprogress","status":"OK","data":"[download]  45.6% of 39.60MiB at  2.64MiB\/s ETA 00:08"}
+2016-04-18 12:51:20:initSession
+2016-04-18 12:51:20:End target initSession
+2016-04-18 12:51:20:End initSession
+2016-04-18 12:51:20:-------------------------------------------
+2016-04-18 12:51:20:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:20:getPID PID5714d7ff6f719 
+2016-04-18 12:51:20:PID 5676 CPID 5678
+2016-04-18 12:51:20:ACTION getprogress
+2016-04-18 12:51:20:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:20:getYTDLLog
+2016-04-18 12:51:20:checkProgress lastline  [download]  53.5% of 39.60MiB at  2.53MiB/s ETA 00:07 running running 5678
+2016-04-18 12:51:20:getYTDLLog
+2016-04-18 12:51:20:reportResult {"action":"getprogress","status":"OK","data":"[download]  53.5% of 39.60MiB at  2.53MiB\/s ETA 00:07"}
+2016-04-18 12:51:21:initSession
+2016-04-18 12:51:21:End target initSession
+2016-04-18 12:51:21:End initSession
+2016-04-18 12:51:21:-------------------------------------------
+2016-04-18 12:51:21:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:21:getPID PID5714d7ff6f719 
+2016-04-18 12:51:21:PID 5676 CPID 5678
+2016-04-18 12:51:21:ACTION getprogress
+2016-04-18 12:51:21:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:21:getYTDLLog
+2016-04-18 12:51:21:checkProgress lastline  [download]  58.7% of 39.60MiB at  2.52MiB/s ETA 00:06 running running 5678
+2016-04-18 12:51:21:getYTDLLog
+2016-04-18 12:51:21:reportResult {"action":"getprogress","status":"OK","data":"[download]  58.7% of 39.60MiB at  2.52MiB\/s ETA 00:06"}
+2016-04-18 12:51:22:initSession
+2016-04-18 12:51:22:End target initSession
+2016-04-18 12:51:22:End initSession
+2016-04-18 12:51:22:-------------------------------------------
+2016-04-18 12:51:22:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:22:getPID PID5714d7ff6f719 
+2016-04-18 12:51:22:PID 5676 CPID 5678
+2016-04-18 12:51:22:ACTION getprogress
+2016-04-18 12:51:22:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:22:getYTDLLog
+2016-04-18 12:51:22:checkProgress lastline  [download]  64.8% of 39.60MiB at  2.48MiB/s ETA 00:05 running running 5678
+2016-04-18 12:51:22:getYTDLLog
+2016-04-18 12:51:22:reportResult {"action":"getprogress","status":"OK","data":"[download]  64.8% of 39.60MiB at  2.48MiB\/s ETA 00:05"}
+2016-04-18 12:51:23:initSession
+2016-04-18 12:51:23:End target initSession
+2016-04-18 12:51:23:End initSession
+2016-04-18 12:51:23:-------------------------------------------
+2016-04-18 12:51:23:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:23:getPID PID5714d7ff6f719 
+2016-04-18 12:51:23:PID 5676 CPID 5678
+2016-04-18 12:51:23:ACTION getprogress
+2016-04-18 12:51:23:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:23:getYTDLLog
+2016-04-18 12:51:23:checkProgress lastline  [download]  70.3% of 39.60MiB at  2.46MiB/s ETA 00:04 running running 5678
+2016-04-18 12:51:23:getYTDLLog
+2016-04-18 12:51:23:reportResult {"action":"getprogress","status":"OK","data":"[download]  70.3% of 39.60MiB at  2.46MiB\/s ETA 00:04"}
+2016-04-18 12:51:24:initSession
+2016-04-18 12:51:24:End target initSession
+2016-04-18 12:51:24:End initSession
+2016-04-18 12:51:24:-------------------------------------------
+2016-04-18 12:51:24:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:24:getPID PID5714d7ff6f719 
+2016-04-18 12:51:24:PID 5676 CPID 5678
+2016-04-18 12:51:24:ACTION getprogress
+2016-04-18 12:51:24:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:24:getYTDLLog
+2016-04-18 12:51:24:checkProgress lastline  [download]  75.8% of 39.60MiB at  2.44MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:24:getYTDLLog
+2016-04-18 12:51:24:reportResult {"action":"getprogress","status":"OK","data":"[download]  75.8% of 39.60MiB at  2.44MiB\/s ETA 00:03"}
+2016-04-18 12:51:25:initSession
+2016-04-18 12:51:25:End target initSession
+2016-04-18 12:51:25:End initSession
+2016-04-18 12:51:25:-------------------------------------------
+2016-04-18 12:51:25:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:25:getPID PID5714d7ff6f719 
+2016-04-18 12:51:25:PID 5676 CPID 5678
+2016-04-18 12:51:25:ACTION getprogress
+2016-04-18 12:51:25:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:25:getYTDLLog
+2016-04-18 12:51:25:checkProgress lastline  [download]  81.4% of 39.60MiB at  2.44MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:25:getYTDLLog
+2016-04-18 12:51:25:reportResult {"action":"getprogress","status":"OK","data":"[download]  81.4% of 39.60MiB at  2.44MiB\/s ETA 00:03"}
+2016-04-18 12:51:26:initSession
+2016-04-18 12:51:26:End target initSession
+2016-04-18 12:51:26:End initSession
+2016-04-18 12:51:26:-------------------------------------------
+2016-04-18 12:51:26:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:26:getPID PID5714d7ff6f719 
+2016-04-18 12:51:26:PID 5676 CPID 5678
+2016-04-18 12:51:26:ACTION getprogress
+2016-04-18 12:51:26:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:26:getYTDLLog
+2016-04-18 12:51:26:checkProgress lastline  [download]  87.6% of 39.60MiB at  2.43MiB/s ETA 00:02 running running 5678
+2016-04-18 12:51:26:getYTDLLog
+2016-04-18 12:51:26:reportResult {"action":"getprogress","status":"OK","data":"[download]  87.6% of 39.60MiB at  2.43MiB\/s ETA 00:02"}
+2016-04-18 12:51:27:initSession
+2016-04-18 12:51:27:End target initSession
+2016-04-18 12:51:27:End initSession
+2016-04-18 12:51:27:-------------------------------------------
+2016-04-18 12:51:27:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:27:getPID PID5714d7ff6f719 
+2016-04-18 12:51:27:PID 5676 CPID 5678
+2016-04-18 12:51:27:ACTION getprogress
+2016-04-18 12:51:27:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:27:getYTDLLog
+2016-04-18 12:51:27:checkProgress lastline  [download]  93.5% of 39.60MiB at  2.43MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:27:getYTDLLog
+2016-04-18 12:51:27:reportResult {"action":"getprogress","status":"OK","data":"[download]  93.5% of 39.60MiB at  2.43MiB\/s ETA 00:01"}
+2016-04-18 12:51:28:initSession
+2016-04-18 12:51:28:End target initSession
+2016-04-18 12:51:28:End initSession
+2016-04-18 12:51:28:-------------------------------------------
+2016-04-18 12:51:28:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:28:getPID PID5714d7ff6f719 
+2016-04-18 12:51:28:PID 5676 CPID 5678
+2016-04-18 12:51:28:ACTION getprogress
+2016-04-18 12:51:28:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:28:getYTDLLog
+2016-04-18 12:51:28:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:28:getYTDLLog
+2016-04-18 12:51:28:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:29:initSession
+2016-04-18 12:51:29:End target initSession
+2016-04-18 12:51:29:End initSession
+2016-04-18 12:51:29:-------------------------------------------
+2016-04-18 12:51:29:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:29:getPID PID5714d7ff6f719 
+2016-04-18 12:51:29:PID 5676 CPID 5678
+2016-04-18 12:51:29:ACTION getprogress
+2016-04-18 12:51:29:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:29:getYTDLLog
+2016-04-18 12:51:29:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:29:getYTDLLog
+2016-04-18 12:51:29:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:30:initSession
+2016-04-18 12:51:30:End target initSession
+2016-04-18 12:51:30:End initSession
+2016-04-18 12:51:30:-------------------------------------------
+2016-04-18 12:51:30:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:30:getPID PID5714d7ff6f719 
+2016-04-18 12:51:30:PID 5676 CPID 5678
+2016-04-18 12:51:30:ACTION getprogress
+2016-04-18 12:51:30:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:30:getYTDLLog
+2016-04-18 12:51:30:checkProgress lastline  [download]   4.7% of 21.27MiB at  1.70MiB/s ETA 00:11 running running 5678
+2016-04-18 12:51:30:getYTDLLog
+2016-04-18 12:51:30:reportResult {"action":"getprogress","status":"OK","data":"[download]   4.7% of 21.27MiB at  1.70MiB\/s ETA 00:11"}
+2016-04-18 12:51:31:initSession
+2016-04-18 12:51:31:End target initSession
+2016-04-18 12:51:31:End initSession
+2016-04-18 12:51:31:-------------------------------------------
+2016-04-18 12:51:31:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:31:getPID PID5714d7ff6f719 
+2016-04-18 12:51:31:PID 5676 CPID 5678
+2016-04-18 12:51:31:ACTION getprogress
+2016-04-18 12:51:31:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:31:getYTDLLog
+2016-04-18 12:51:31:checkProgress lastline  [download]  18.8% of 21.27MiB at  2.30MiB/s ETA 00:07 running running 5678
+2016-04-18 12:51:31:getYTDLLog
+2016-04-18 12:51:31:reportResult {"action":"getprogress","status":"OK","data":"[download]  18.8% of 21.27MiB at  2.30MiB\/s ETA 00:07"}
+2016-04-18 12:51:32:initSession
+2016-04-18 12:51:32:End target initSession
+2016-04-18 12:51:32:End initSession
+2016-04-18 12:51:32:-------------------------------------------
+2016-04-18 12:51:32:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:32:getPID PID5714d7ff6f719 
+2016-04-18 12:51:32:PID 5676 CPID 5678
+2016-04-18 12:51:32:ACTION getprogress
+2016-04-18 12:51:32:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:32:getYTDLLog
+2016-04-18 12:51:32:checkProgress lastline  [download]  31.8% of 21.27MiB at  2.51MiB/s ETA 00:05 running running 5678
+2016-04-18 12:51:32:getYTDLLog
+2016-04-18 12:51:32:reportResult {"action":"getprogress","status":"OK","data":"[download]  31.8% of 21.27MiB at  2.51MiB\/s ETA 00:05"}
+2016-04-18 12:51:33:initSession
+2016-04-18 12:51:33:End target initSession
+2016-04-18 12:51:33:End initSession
+2016-04-18 12:51:33:-------------------------------------------
+2016-04-18 12:51:33:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:33:getPID PID5714d7ff6f719 
+2016-04-18 12:51:33:PID 5676 CPID 5678
+2016-04-18 12:51:33:ACTION getprogress
+2016-04-18 12:51:33:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:33:getYTDLLog
+2016-04-18 12:51:33:checkProgress lastline  [download]  45.4% of 21.27MiB at  2.45MiB/s ETA 00:04 running running 5678
+2016-04-18 12:51:33:getYTDLLog
+2016-04-18 12:51:33:reportResult {"action":"getprogress","status":"OK","data":"[download]  45.4% of 21.27MiB at  2.45MiB\/s ETA 00:04"}
+2016-04-18 12:51:34:initSession
+2016-04-18 12:51:34:End target initSession
+2016-04-18 12:51:34:End initSession
+2016-04-18 12:51:34:-------------------------------------------
+2016-04-18 12:51:34:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:34:getPID PID5714d7ff6f719 
+2016-04-18 12:51:34:PID 5676 CPID 5678
+2016-04-18 12:51:34:ACTION getprogress
+2016-04-18 12:51:34:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:34:getYTDLLog
+2016-04-18 12:51:34:checkProgress lastline  [download]  56.3% of 21.27MiB at  2.49MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:34:getYTDLLog
+2016-04-18 12:51:34:reportResult {"action":"getprogress","status":"OK","data":"[download]  56.3% of 21.27MiB at  2.49MiB\/s ETA 00:03"}
+2016-04-18 12:51:35:initSession
+2016-04-18 12:51:35:End target initSession
+2016-04-18 12:51:35:End initSession
+2016-04-18 12:51:35:-------------------------------------------
+2016-04-18 12:51:35:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:35:getPID PID5714d7ff6f719 
+2016-04-18 12:51:35:PID 5676 CPID 5678
+2016-04-18 12:51:35:ACTION getprogress
+2016-04-18 12:51:35:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:35:getYTDLLog
+2016-04-18 12:51:35:checkProgress lastline  [download]  68.8% of 21.27MiB at  2.45MiB/s ETA 00:02 running running 5678
+2016-04-18 12:51:35:getYTDLLog
+2016-04-18 12:51:35:reportResult {"action":"getprogress","status":"OK","data":"[download]  68.8% of 21.27MiB at  2.45MiB\/s ETA 00:02"}
+2016-04-18 12:51:36:initSession
+2016-04-18 12:51:36:End target initSession
+2016-04-18 12:51:36:End initSession
+2016-04-18 12:51:36:-------------------------------------------
+2016-04-18 12:51:36:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:36:getPID PID5714d7ff6f719 
+2016-04-18 12:51:36:PID 5676 CPID 5678
+2016-04-18 12:51:36:ACTION getprogress
+2016-04-18 12:51:36:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:36:getYTDLLog
+2016-04-18 12:51:36:checkProgress lastline  [download]  79.5% of 21.27MiB at  2.48MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:36:getYTDLLog
+2016-04-18 12:51:36:reportResult {"action":"getprogress","status":"OK","data":"[download]  79.5% of 21.27MiB at  2.48MiB\/s ETA 00:01"}
+2016-04-18 12:51:37:initSession
+2016-04-18 12:51:37:End target initSession
+2016-04-18 12:51:37:End initSession
+2016-04-18 12:51:37:-------------------------------------------
+2016-04-18 12:51:37:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:37:getPID PID5714d7ff6f719 
+2016-04-18 12:51:37:PID 5676 CPID 5678
+2016-04-18 12:51:37:ACTION getprogress
+2016-04-18 12:51:37:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:37:getYTDLLog
+2016-04-18 12:51:37:checkProgress lastline  [download]  79.5% of 21.27MiB at  2.48MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:37:getYTDLLog
+2016-04-18 12:51:37:reportResult {"action":"getprogress","status":"OK","data":"[download]  79.5% of 21.27MiB at  2.48MiB\/s ETA 00:01"}
+2016-04-18 12:51:38:initSession
+2016-04-18 12:51:38:End target initSession
+2016-04-18 12:51:38:End initSession
+2016-04-18 12:51:38:-------------------------------------------
+2016-04-18 12:51:38:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:38:getPID PID5714d7ff6f719 
+2016-04-18 12:51:38:PID 5676 CPID 5678
+2016-04-18 12:51:38:ACTION getprogress
+2016-04-18 12:51:38:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:38:getYTDLLog
+2016-04-18 12:51:38:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:38:getYTDLLog
+2016-04-18 12:51:38:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:39:initSession
+2016-04-18 12:51:39:End target initSession
+2016-04-18 12:51:39:End initSession
+2016-04-18 12:51:39:-------------------------------------------
+2016-04-18 12:51:39:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:39:getPID PID5714d7ff6f719 
+2016-04-18 12:51:39:PID 5676 CPID 5678
+2016-04-18 12:51:39:ACTION getprogress
+2016-04-18 12:51:39:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:39:getYTDLLog
+2016-04-18 12:51:39:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:39:getYTDLLog
+2016-04-18 12:51:39:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:40:initSession
+2016-04-18 12:51:40:End target initSession
+2016-04-18 12:51:40:End initSession
+2016-04-18 12:51:40:-------------------------------------------
+2016-04-18 12:51:40:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:40:getPID PID5714d7ff6f719 
+2016-04-18 12:51:40:PID 5676 CPID 5678
+2016-04-18 12:51:40:ACTION getprogress
+2016-04-18 12:51:40:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:40:getYTDLLog
+2016-04-18 12:51:40:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:40:getYTDLLog
+2016-04-18 12:51:40:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:41:initSession
+2016-04-18 12:51:41:End target initSession
+2016-04-18 12:51:41:End initSession
+2016-04-18 12:51:41:-------------------------------------------
+2016-04-18 12:51:41:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:41:getPID PID5714d7ff6f719 
+2016-04-18 12:51:41:PID 5676 CPID 5678
+2016-04-18 12:51:41:ACTION getprogress
+2016-04-18 12:51:41:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:41:getYTDLLog
+2016-04-18 12:51:41:checkProgress lastline  [download]   4.9% of 20.45MiB at  2.17MiB/s ETA 00:08 running running 5678
+2016-04-18 12:51:41:getYTDLLog
+2016-04-18 12:51:41:reportResult {"action":"getprogress","status":"OK","data":"[download]   4.9% of 20.45MiB at  2.17MiB\/s ETA 00:08"}
+2016-04-18 12:51:42:initSession
+2016-04-18 12:51:42:End target initSession
+2016-04-18 12:51:42:End initSession
+2016-04-18 12:51:42:-------------------------------------------
+2016-04-18 12:51:42:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:42:getPID PID5714d7ff6f719 
+2016-04-18 12:51:42:PID 5676 CPID 5678
+2016-04-18 12:51:42:ACTION getprogress
+2016-04-18 12:51:42:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:42:getYTDLLog
+2016-04-18 12:51:42:checkProgress lastline  [download]   9.8% of 20.45MiB at  2.58MiB/s ETA 00:07 running running 5678
+2016-04-18 12:51:42:getYTDLLog
+2016-04-18 12:51:42:reportResult {"action":"getprogress","status":"OK","data":"[download]   9.8% of 20.45MiB at  2.58MiB\/s ETA 00:07"}
+2016-04-18 12:51:43:initSession
+2016-04-18 12:51:43:End target initSession
+2016-04-18 12:51:43:End initSession
+2016-04-18 12:51:43:-------------------------------------------
+2016-04-18 12:51:43:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:43:getPID PID5714d7ff6f719 
+2016-04-18 12:51:43:PID 5676 CPID 5678
+2016-04-18 12:51:43:ACTION getprogress
+2016-04-18 12:51:43:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:43:getYTDLLog
+2016-04-18 12:51:43:checkProgress lastline  [download]  19.6% of 20.45MiB at  2.61MiB/s ETA 00:06 running running 5678
+2016-04-18 12:51:43:getYTDLLog
+2016-04-18 12:51:43:reportResult {"action":"getprogress","status":"OK","data":"[download]  19.6% of 20.45MiB at  2.61MiB\/s ETA 00:06"}
+2016-04-18 12:51:44:initSession
+2016-04-18 12:51:44:End target initSession
+2016-04-18 12:51:44:End initSession
+2016-04-18 12:51:44:-------------------------------------------
+2016-04-18 12:51:44:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:44:getPID PID5714d7ff6f719 
+2016-04-18 12:51:44:PID 5676 CPID 5678
+2016-04-18 12:51:44:ACTION getprogress
+2016-04-18 12:51:44:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:44:getYTDLLog
+2016-04-18 12:51:44:checkProgress lastline  [download]  32.5% of 20.45MiB at  2.21MiB/s ETA 00:06 running running 5678
+2016-04-18 12:51:44:getYTDLLog
+2016-04-18 12:51:44:reportResult {"action":"getprogress","status":"OK","data":"[download]  32.5% of 20.45MiB at  2.21MiB\/s ETA 00:06"}
+2016-04-18 12:51:45:initSession
+2016-04-18 12:51:45:End target initSession
+2016-04-18 12:51:45:End initSession
+2016-04-18 12:51:45:-------------------------------------------
+2016-04-18 12:51:45:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:45:getPID PID5714d7ff6f719 
+2016-04-18 12:51:45:PID 5676 CPID 5678
+2016-04-18 12:51:45:ACTION getprogress
+2016-04-18 12:51:45:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:45:getYTDLLog
+2016-04-18 12:51:45:checkProgress lastline  [download]  41.3% of 20.45MiB at  2.12MiB/s ETA 00:05 running running 5678
+2016-04-18 12:51:45:getYTDLLog
+2016-04-18 12:51:45:reportResult {"action":"getprogress","status":"OK","data":"[download]  41.3% of 20.45MiB at  2.12MiB\/s ETA 00:05"}
+2016-04-18 12:51:46:initSession
+2016-04-18 12:51:46:End target initSession
+2016-04-18 12:51:46:End initSession
+2016-04-18 12:51:46:-------------------------------------------
+2016-04-18 12:51:46:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:46:getPID PID5714d7ff6f719 
+2016-04-18 12:51:46:PID 5676 CPID 5678
+2016-04-18 12:51:46:ACTION getprogress
+2016-04-18 12:51:46:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:46:getYTDLLog
+2016-04-18 12:51:46:checkProgress lastline  [download]  50.4% of 20.45MiB at  2.16MiB/s ETA 00:04 running running 5678
+2016-04-18 12:51:46:getYTDLLog
+2016-04-18 12:51:46:reportResult {"action":"getprogress","status":"OK","data":"[download]  50.4% of 20.45MiB at  2.16MiB\/s ETA 00:04"}
+2016-04-18 12:51:47:initSession
+2016-04-18 12:51:47:End target initSession
+2016-04-18 12:51:47:End initSession
+2016-04-18 12:51:47:-------------------------------------------
+2016-04-18 12:51:47:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:47:getPID PID5714d7ff6f719 
+2016-04-18 12:51:47:PID 5676 CPID 5678
+2016-04-18 12:51:47:ACTION getprogress
+2016-04-18 12:51:47:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:47:getYTDLLog
+2016-04-18 12:51:47:checkProgress lastline  [download]  61.8% of 20.45MiB at  2.17MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:47:getYTDLLog
+2016-04-18 12:51:47:reportResult {"action":"getprogress","status":"OK","data":"[download]  61.8% of 20.45MiB at  2.17MiB\/s ETA 00:03"}
+2016-04-18 12:51:48:initSession
+2016-04-18 12:51:48:End target initSession
+2016-04-18 12:51:48:End initSession
+2016-04-18 12:51:48:-------------------------------------------
+2016-04-18 12:51:48:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:48:getPID PID5714d7ff6f719 
+2016-04-18 12:51:48:PID 5676 CPID 5678
+2016-04-18 12:51:48:ACTION getprogress
+2016-04-18 12:51:48:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:48:getYTDLLog
+2016-04-18 12:51:48:checkProgress lastline  [download]  72.7% of 20.45MiB at  2.22MiB/s ETA 00:02 running running 5678
+2016-04-18 12:51:48:getYTDLLog
+2016-04-18 12:51:48:reportResult {"action":"getprogress","status":"OK","data":"[download]  72.7% of 20.45MiB at  2.22MiB\/s ETA 00:02"}
+2016-04-18 12:51:49:initSession
+2016-04-18 12:51:49:End target initSession
+2016-04-18 12:51:49:End initSession
+2016-04-18 12:51:49:-------------------------------------------
+2016-04-18 12:51:49:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:49:getPID PID5714d7ff6f719 
+2016-04-18 12:51:49:PID 5676 CPID 5678
+2016-04-18 12:51:49:ACTION getprogress
+2016-04-18 12:51:49:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:49:getYTDLLog
+2016-04-18 12:51:49:checkProgress lastline  [download]  85.0% of 20.45MiB at  2.23MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:49:getYTDLLog
+2016-04-18 12:51:49:reportResult {"action":"getprogress","status":"OK","data":"[download]  85.0% of 20.45MiB at  2.23MiB\/s ETA 00:01"}
+2016-04-18 12:51:50:initSession
+2016-04-18 12:51:50:End target initSession
+2016-04-18 12:51:50:End initSession
+2016-04-18 12:51:50:-------------------------------------------
+2016-04-18 12:51:50:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:50:getPID PID5714d7ff6f719 
+2016-04-18 12:51:50:PID 5676 CPID 5678
+2016-04-18 12:51:50:ACTION getprogress
+2016-04-18 12:51:50:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:50:getYTDLLog
+2016-04-18 12:51:50:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:50:getYTDLLog
+2016-04-18 12:51:50:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:51:initSession
+2016-04-18 12:51:51:End target initSession
+2016-04-18 12:51:51:End initSession
+2016-04-18 12:51:51:-------------------------------------------
+2016-04-18 12:51:51:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:51:getPID PID5714d7ff6f719 
+2016-04-18 12:51:51:PID 5676 CPID 5678
+2016-04-18 12:51:51:ACTION getprogress
+2016-04-18 12:51:51:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:51:getYTDLLog
+2016-04-18 12:51:51:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:51:getYTDLLog
+2016-04-18 12:51:51:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:52:initSession
+2016-04-18 12:51:52:End target initSession
+2016-04-18 12:51:52:End initSession
+2016-04-18 12:51:52:-------------------------------------------
+2016-04-18 12:51:52:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:52:getPID PID5714d7ff6f719 
+2016-04-18 12:51:52:PID 5676 CPID 5678
+2016-04-18 12:51:52:ACTION getprogress
+2016-04-18 12:51:52:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:52:getYTDLLog
+2016-04-18 12:51:52:checkProgress lastline  [download]  12.8% of 15.62MiB at  2.31MiB/s ETA 00:05 running running 5678
+2016-04-18 12:51:52:getYTDLLog
+2016-04-18 12:51:52:reportResult {"action":"getprogress","status":"OK","data":"[download]  12.8% of 15.62MiB at  2.31MiB\/s ETA 00:05"}
+2016-04-18 12:51:53:initSession
+2016-04-18 12:51:53:End target initSession
+2016-04-18 12:51:53:End initSession
+2016-04-18 12:51:53:-------------------------------------------
+2016-04-18 12:51:53:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:53:getPID PID5714d7ff6f719 
+2016-04-18 12:51:53:PID 5676 CPID 5678
+2016-04-18 12:51:53:ACTION getprogress
+2016-04-18 12:51:53:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:53:getYTDLLog
+2016-04-18 12:51:53:checkProgress lastline  [download]  25.6% of 15.62MiB at  2.51MiB/s ETA 00:04 running running 5678
+2016-04-18 12:51:53:getYTDLLog
+2016-04-18 12:51:53:reportResult {"action":"getprogress","status":"OK","data":"[download]  25.6% of 15.62MiB at  2.51MiB\/s ETA 00:04"}
+2016-04-18 12:51:54:initSession
+2016-04-18 12:51:54:End target initSession
+2016-04-18 12:51:54:End initSession
+2016-04-18 12:51:54:-------------------------------------------
+2016-04-18 12:51:54:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:54:getPID PID5714d7ff6f719 
+2016-04-18 12:51:54:PID 5676 CPID 5678
+2016-04-18 12:51:54:ACTION getprogress
+2016-04-18 12:51:54:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:54:getYTDLLog
+2016-04-18 12:51:54:checkProgress lastline  [download]  43.2% of 15.62MiB at  2.60MiB/s ETA 00:03 running running 5678
+2016-04-18 12:51:54:getYTDLLog
+2016-04-18 12:51:54:reportResult {"action":"getprogress","status":"OK","data":"[download]  43.2% of 15.62MiB at  2.60MiB\/s ETA 00:03"}
+2016-04-18 12:51:55:initSession
+2016-04-18 12:51:55:End target initSession
+2016-04-18 12:51:55:End initSession
+2016-04-18 12:51:55:-------------------------------------------
+2016-04-18 12:51:55:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:55:getPID PID5714d7ff6f719 
+2016-04-18 12:51:55:PID 5676 CPID 5678
+2016-04-18 12:51:55:ACTION getprogress
+2016-04-18 12:51:55:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:55:getYTDLLog
+2016-04-18 12:51:55:checkProgress lastline  [download]  60.7% of 15.62MiB at  2.57MiB/s ETA 00:02 running running 5678
+2016-04-18 12:51:55:getYTDLLog
+2016-04-18 12:51:55:reportResult {"action":"getprogress","status":"OK","data":"[download]  60.7% of 15.62MiB at  2.57MiB\/s ETA 00:02"}
+2016-04-18 12:51:56:initSession
+2016-04-18 12:51:56:End target initSession
+2016-04-18 12:51:56:End initSession
+2016-04-18 12:51:56:-------------------------------------------
+2016-04-18 12:51:56:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:56:getPID PID5714d7ff6f719 
+2016-04-18 12:51:56:PID 5676 CPID 5678
+2016-04-18 12:51:56:ACTION getprogress
+2016-04-18 12:51:56:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:56:getYTDLLog
+2016-04-18 12:51:56:checkProgress lastline  [download]  76.8% of 15.62MiB at  2.58MiB/s ETA 00:01 running running 5678
+2016-04-18 12:51:56:getYTDLLog
+2016-04-18 12:51:56:reportResult {"action":"getprogress","status":"OK","data":"[download]  76.8% of 15.62MiB at  2.58MiB\/s ETA 00:01"}
+2016-04-18 12:51:57:initSession
+2016-04-18 12:51:57:End target initSession
+2016-04-18 12:51:57:End initSession
+2016-04-18 12:51:57:-------------------------------------------
+2016-04-18 12:51:57:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:57:getPID PID5714d7ff6f719 
+2016-04-18 12:51:57:PID 5676 CPID 5678
+2016-04-18 12:51:57:ACTION getprogress
+2016-04-18 12:51:57:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:57:getYTDLLog
+2016-04-18 12:51:57:checkProgress lastline  [download]  93.6% of 15.62MiB at  2.61MiB/s ETA 00:00 running running 5678
+2016-04-18 12:51:57:getYTDLLog
+2016-04-18 12:51:57:reportResult {"action":"getprogress","status":"OK","data":"[download]  93.6% of 15.62MiB at  2.61MiB\/s ETA 00:00"}
+2016-04-18 12:51:58:initSession
+2016-04-18 12:51:58:End target initSession
+2016-04-18 12:51:58:End initSession
+2016-04-18 12:51:58:-------------------------------------------
+2016-04-18 12:51:58:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:58:getPID PID5714d7ff6f719 
+2016-04-18 12:51:58:PID 5676 CPID 5678
+2016-04-18 12:51:58:ACTION getprogress
+2016-04-18 12:51:58:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:58:getYTDLLog
+2016-04-18 12:51:58:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:51:58:getYTDLLog
+2016-04-18 12:51:58:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:51:59:initSession
+2016-04-18 12:51:59:End target initSession
+2016-04-18 12:51:59:End initSession
+2016-04-18 12:51:59:-------------------------------------------
+2016-04-18 12:51:59:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:51:59:getPID PID5714d7ff6f719 
+2016-04-18 12:51:59:PID 5676 CPID 5678
+2016-04-18 12:51:59:ACTION getprogress
+2016-04-18 12:51:59:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:51:59:getYTDLLog
+2016-04-18 12:51:59:checkProgress lastline  [download]   1.0% of 49.17MiB at  1.66MiB/s ETA 00:29 running running 5678
+2016-04-18 12:51:59:getYTDLLog
+2016-04-18 12:51:59:reportResult {"action":"getprogress","status":"OK","data":"[download]   1.0% of 49.17MiB at  1.66MiB\/s ETA 00:29"}
+2016-04-18 12:52:00:initSession
+2016-04-18 12:52:00:End target initSession
+2016-04-18 12:52:00:End initSession
+2016-04-18 12:52:00:-------------------------------------------
+2016-04-18 12:52:00:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:00:getPID PID5714d7ff6f719 
+2016-04-18 12:52:00:PID 5676 CPID 5678
+2016-04-18 12:52:00:ACTION getprogress
+2016-04-18 12:52:00:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:00:getYTDLLog
+2016-04-18 12:52:00:checkProgress lastline  [download]   4.1% of 49.17MiB at  2.32MiB/s ETA 00:20 running running 5678
+2016-04-18 12:52:00:getYTDLLog
+2016-04-18 12:52:00:reportResult {"action":"getprogress","status":"OK","data":"[download]   4.1% of 49.17MiB at  2.32MiB\/s ETA 00:20"}
+2016-04-18 12:52:01:initSession
+2016-04-18 12:52:01:End target initSession
+2016-04-18 12:52:01:End initSession
+2016-04-18 12:52:01:-------------------------------------------
+2016-04-18 12:52:01:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:01:getPID PID5714d7ff6f719 
+2016-04-18 12:52:01:PID 5676 CPID 5678
+2016-04-18 12:52:01:ACTION getprogress
+2016-04-18 12:52:01:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:01:getYTDLLog
+2016-04-18 12:52:01:checkProgress lastline  [download]   8.1% of 49.17MiB at  2.49MiB/s ETA 00:18 running running 5678
+2016-04-18 12:52:01:getYTDLLog
+2016-04-18 12:52:01:reportResult {"action":"getprogress","status":"OK","data":"[download]   8.1% of 49.17MiB at  2.49MiB\/s ETA 00:18"}
+2016-04-18 12:52:02:initSession
+2016-04-18 12:52:02:End target initSession
+2016-04-18 12:52:02:End initSession
+2016-04-18 12:52:02:-------------------------------------------
+2016-04-18 12:52:02:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:02:getPID PID5714d7ff6f719 
+2016-04-18 12:52:02:PID 5676 CPID 5678
+2016-04-18 12:52:02:ACTION getprogress
+2016-04-18 12:52:02:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:02:getYTDLLog
+2016-04-18 12:52:02:checkProgress lastline  [download]  13.6% of 49.17MiB at  2.46MiB/s ETA 00:17 running running 5678
+2016-04-18 12:52:02:getYTDLLog
+2016-04-18 12:52:02:reportResult {"action":"getprogress","status":"OK","data":"[download]  13.6% of 49.17MiB at  2.46MiB\/s ETA 00:17"}
+2016-04-18 12:52:03:initSession
+2016-04-18 12:52:03:End target initSession
+2016-04-18 12:52:03:End initSession
+2016-04-18 12:52:03:-------------------------------------------
+2016-04-18 12:52:03:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:03:getPID PID5714d7ff6f719 
+2016-04-18 12:52:03:PID 5676 CPID 5678
+2016-04-18 12:52:03:ACTION getprogress
+2016-04-18 12:52:03:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:03:getYTDLLog
+2016-04-18 12:52:03:checkProgress lastline  [download]  18.5% of 49.17MiB at  2.55MiB/s ETA 00:15 running running 5678
+2016-04-18 12:52:03:getYTDLLog
+2016-04-18 12:52:03:reportResult {"action":"getprogress","status":"OK","data":"[download]  18.5% of 49.17MiB at  2.55MiB\/s ETA 00:15"}
+2016-04-18 12:52:04:initSession
+2016-04-18 12:52:04:End target initSession
+2016-04-18 12:52:04:End initSession
+2016-04-18 12:52:04:-------------------------------------------
+2016-04-18 12:52:04:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:04:getPID PID5714d7ff6f719 
+2016-04-18 12:52:04:PID 5676 CPID 5678
+2016-04-18 12:52:04:ACTION getprogress
+2016-04-18 12:52:04:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:04:getYTDLLog
+2016-04-18 12:52:04:checkProgress lastline  [download]  24.3% of 49.17MiB at  2.53MiB/s ETA 00:14 running running 5678
+2016-04-18 12:52:04:getYTDLLog
+2016-04-18 12:52:04:reportResult {"action":"getprogress","status":"OK","data":"[download]  24.3% of 49.17MiB at  2.53MiB\/s ETA 00:14"}
+2016-04-18 12:52:05:initSession
+2016-04-18 12:52:05:End target initSession
+2016-04-18 12:52:05:End initSession
+2016-04-18 12:52:05:-------------------------------------------
+2016-04-18 12:52:05:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:05:getPID PID5714d7ff6f719 
+2016-04-18 12:52:05:PID 5676 CPID 5678
+2016-04-18 12:52:05:ACTION getprogress
+2016-04-18 12:52:05:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:05:getYTDLLog
+2016-04-18 12:52:05:checkProgress lastline  [download]  29.3% of 49.17MiB at  2.57MiB/s ETA 00:13 running running 5678
+2016-04-18 12:52:05:getYTDLLog
+2016-04-18 12:52:05:reportResult {"action":"getprogress","status":"OK","data":"[download]  29.3% of 49.17MiB at  2.57MiB\/s ETA 00:13"}
+2016-04-18 12:52:06:initSession
+2016-04-18 12:52:06:End target initSession
+2016-04-18 12:52:06:End initSession
+2016-04-18 12:52:06:-------------------------------------------
+2016-04-18 12:52:06:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:06:getPID PID5714d7ff6f719 
+2016-04-18 12:52:06:PID 5676 CPID 5678
+2016-04-18 12:52:06:ACTION getprogress
+2016-04-18 12:52:06:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:06:getYTDLLog
+2016-04-18 12:52:06:checkProgress lastline  [download]  35.0% of 49.17MiB at  2.51MiB/s ETA 00:12 running running 5678
+2016-04-18 12:52:06:getYTDLLog
+2016-04-18 12:52:06:reportResult {"action":"getprogress","status":"OK","data":"[download]  35.0% of 49.17MiB at  2.51MiB\/s ETA 00:12"}
+2016-04-18 12:52:07:initSession
+2016-04-18 12:52:07:End target initSession
+2016-04-18 12:52:07:End initSession
+2016-04-18 12:52:07:-------------------------------------------
+2016-04-18 12:52:07:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:07:getPID PID5714d7ff6f719 
+2016-04-18 12:52:07:PID 5676 CPID 5678
+2016-04-18 12:52:07:ACTION getprogress
+2016-04-18 12:52:07:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:07:getYTDLLog
+2016-04-18 12:52:07:checkProgress lastline  [download]  39.5% of 49.17MiB at  2.52MiB/s ETA 00:11 running running 5678
+2016-04-18 12:52:07:getYTDLLog
+2016-04-18 12:52:07:reportResult {"action":"getprogress","status":"OK","data":"[download]  39.5% of 49.17MiB at  2.52MiB\/s ETA 00:11"}
+2016-04-18 12:52:08:initSession
+2016-04-18 12:52:08:End target initSession
+2016-04-18 12:52:08:End initSession
+2016-04-18 12:52:08:-------------------------------------------
+2016-04-18 12:52:08:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:08:getPID PID5714d7ff6f719 
+2016-04-18 12:52:08:PID 5676 CPID 5678
+2016-04-18 12:52:08:ACTION getprogress
+2016-04-18 12:52:08:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:08:getYTDLLog
+2016-04-18 12:52:08:checkProgress lastline  [download]  44.7% of 49.17MiB at  2.56MiB/s ETA 00:10 running running 5678
+2016-04-18 12:52:08:getYTDLLog
+2016-04-18 12:52:08:reportResult {"action":"getprogress","status":"OK","data":"[download]  44.7% of 49.17MiB at  2.56MiB\/s ETA 00:10"}
+2016-04-18 12:52:09:initSession
+2016-04-18 12:52:09:End target initSession
+2016-04-18 12:52:09:End initSession
+2016-04-18 12:52:09:-------------------------------------------
+2016-04-18 12:52:09:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:09:getPID PID5714d7ff6f719 
+2016-04-18 12:52:09:PID 5676 CPID 5678
+2016-04-18 12:52:09:ACTION getprogress
+2016-04-18 12:52:09:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:09:getYTDLLog
+2016-04-18 12:52:09:checkProgress lastline  [download]  50.7% of 49.17MiB at  2.58MiB/s ETA 00:09 running running 5678
+2016-04-18 12:52:09:getYTDLLog
+2016-04-18 12:52:09:reportResult {"action":"getprogress","status":"OK","data":"[download]  50.7% of 49.17MiB at  2.58MiB\/s ETA 00:09"}
+2016-04-18 12:52:10:initSession
+2016-04-18 12:52:10:End target initSession
+2016-04-18 12:52:10:End initSession
+2016-04-18 12:52:10:-------------------------------------------
+2016-04-18 12:52:10:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:10:getPID PID5714d7ff6f719 
+2016-04-18 12:52:10:PID 5676 CPID 5678
+2016-04-18 12:52:10:ACTION getprogress
+2016-04-18 12:52:10:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:10:getYTDLLog
+2016-04-18 12:52:10:checkProgress lastline  [download]  56.3% of 49.17MiB at  2.61MiB/s ETA 00:08 running running 5678
+2016-04-18 12:52:10:getYTDLLog
+2016-04-18 12:52:10:reportResult {"action":"getprogress","status":"OK","data":"[download]  56.3% of 49.17MiB at  2.61MiB\/s ETA 00:08"}
+2016-04-18 12:52:11:initSession
+2016-04-18 12:52:11:End target initSession
+2016-04-18 12:52:11:End initSession
+2016-04-18 12:52:11:-------------------------------------------
+2016-04-18 12:52:11:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:11:getPID PID5714d7ff6f719 
+2016-04-18 12:52:11:PID 5676 CPID 5678
+2016-04-18 12:52:11:ACTION getprogress
+2016-04-18 12:52:11:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:11:getYTDLLog
+2016-04-18 12:52:11:checkProgress lastline  [download]  62.3% of 49.17MiB at  2.60MiB/s ETA 00:07 running running 5678
+2016-04-18 12:52:11:getYTDLLog
+2016-04-18 12:52:11:reportResult {"action":"getprogress","status":"OK","data":"[download]  62.3% of 49.17MiB at  2.60MiB\/s ETA 00:07"}
+2016-04-18 12:52:12:initSession
+2016-04-18 12:52:12:End target initSession
+2016-04-18 12:52:12:End initSession
+2016-04-18 12:52:12:-------------------------------------------
+2016-04-18 12:52:12:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:12:getPID PID5714d7ff6f719 
+2016-04-18 12:52:12:PID 5676 CPID 5678
+2016-04-18 12:52:12:ACTION getprogress
+2016-04-18 12:52:12:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:12:getYTDLLog
+2016-04-18 12:52:12:checkProgress lastline  [download]  67.3% of 49.17MiB at  2.61MiB/s ETA 00:06 running running 5678
+2016-04-18 12:52:12:getYTDLLog
+2016-04-18 12:52:12:reportResult {"action":"getprogress","status":"OK","data":"[download]  67.3% of 49.17MiB at  2.61MiB\/s ETA 00:06"}
+2016-04-18 12:52:13:initSession
+2016-04-18 12:52:13:End target initSession
+2016-04-18 12:52:13:End initSession
+2016-04-18 12:52:13:-------------------------------------------
+2016-04-18 12:52:13:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:13:getPID PID5714d7ff6f719 
+2016-04-18 12:52:13:PID 5676 CPID 5678
+2016-04-18 12:52:13:ACTION getprogress
+2016-04-18 12:52:13:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:13:getYTDLLog
+2016-04-18 12:52:13:checkProgress lastline  [download]  72.8% of 49.17MiB at  2.60MiB/s ETA 00:05 running running 5678
+2016-04-18 12:52:13:getYTDLLog
+2016-04-18 12:52:13:reportResult {"action":"getprogress","status":"OK","data":"[download]  72.8% of 49.17MiB at  2.60MiB\/s ETA 00:05"}
+2016-04-18 12:52:14:initSession
+2016-04-18 12:52:14:End target initSession
+2016-04-18 12:52:14:End initSession
+2016-04-18 12:52:14:-------------------------------------------
+2016-04-18 12:52:14:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:14:getPID PID5714d7ff6f719 
+2016-04-18 12:52:14:PID 5676 CPID 5678
+2016-04-18 12:52:14:ACTION getprogress
+2016-04-18 12:52:14:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:14:getYTDLLog
+2016-04-18 12:52:14:checkProgress lastline  [download]  77.8% of 49.17MiB at  2.62MiB/s ETA 00:04 running running 5678
+2016-04-18 12:52:14:getYTDLLog
+2016-04-18 12:52:14:reportResult {"action":"getprogress","status":"OK","data":"[download]  77.8% of 49.17MiB at  2.62MiB\/s ETA 00:04"}
+2016-04-18 12:52:15:initSession
+2016-04-18 12:52:15:End target initSession
+2016-04-18 12:52:15:End initSession
+2016-04-18 12:52:15:-------------------------------------------
+2016-04-18 12:52:15:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:15:getPID PID5714d7ff6f719 
+2016-04-18 12:52:15:PID 5676 CPID 5678
+2016-04-18 12:52:15:ACTION getprogress
+2016-04-18 12:52:15:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:15:getYTDLLog
+2016-04-18 12:52:15:checkProgress lastline  [download]  84.0% of 49.17MiB at  2.61MiB/s ETA 00:03 running running 5678
+2016-04-18 12:52:15:getYTDLLog
+2016-04-18 12:52:15:reportResult {"action":"getprogress","status":"OK","data":"[download]  84.0% of 49.17MiB at  2.61MiB\/s ETA 00:03"}
+2016-04-18 12:52:16:initSession
+2016-04-18 12:52:16:End target initSession
+2016-04-18 12:52:16:End initSession
+2016-04-18 12:52:16:-------------------------------------------
+2016-04-18 12:52:16:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:16:getPID PID5714d7ff6f719 
+2016-04-18 12:52:16:PID 5676 CPID 5678
+2016-04-18 12:52:16:ACTION getprogress
+2016-04-18 12:52:16:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:16:getYTDLLog
+2016-04-18 12:52:16:checkProgress lastline  [download]  89.0% of 49.17MiB at  2.61MiB/s ETA 00:02 running running 5678
+2016-04-18 12:52:16:getYTDLLog
+2016-04-18 12:52:16:reportResult {"action":"getprogress","status":"OK","data":"[download]  89.0% of 49.17MiB at  2.61MiB\/s ETA 00:02"}
+2016-04-18 12:52:17:initSession
+2016-04-18 12:52:17:End target initSession
+2016-04-18 12:52:17:End initSession
+2016-04-18 12:52:17:-------------------------------------------
+2016-04-18 12:52:17:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:17:getPID PID5714d7ff6f719 
+2016-04-18 12:52:17:PID 5676 CPID 5678
+2016-04-18 12:52:17:ACTION getprogress
+2016-04-18 12:52:17:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:17:getYTDLLog
+2016-04-18 12:52:17:checkProgress lastline  [download]  94.2% of 49.17MiB at  2.59MiB/s ETA 00:01 running running 5678
+2016-04-18 12:52:17:getYTDLLog
+2016-04-18 12:52:17:reportResult {"action":"getprogress","status":"OK","data":"[download]  94.2% of 49.17MiB at  2.59MiB\/s ETA 00:01"}
+2016-04-18 12:52:18:initSession
+2016-04-18 12:52:18:End target initSession
+2016-04-18 12:52:18:End initSession
+2016-04-18 12:52:18:-------------------------------------------
+2016-04-18 12:52:18:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:18:getPID PID5714d7ff6f719 
+2016-04-18 12:52:18:PID 5676 CPID 5678
+2016-04-18 12:52:18:ACTION getprogress
+2016-04-18 12:52:18:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:18:getYTDLLog
+2016-04-18 12:52:18:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:52:18:getYTDLLog
+2016-04-18 12:52:18:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:52:19:initSession
+2016-04-18 12:52:19:End target initSession
+2016-04-18 12:52:19:End initSession
+2016-04-18 12:52:19:-------------------------------------------
+2016-04-18 12:52:19:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:19:getPID PID5714d7ff6f719 
+2016-04-18 12:52:19:PID 5676 CPID 5678
+2016-04-18 12:52:19:ACTION getprogress
+2016-04-18 12:52:19:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:19:getYTDLLog
+2016-04-18 12:52:19:checkProgress lastline  Waiting for 5678  ...  running running 5678
+2016-04-18 12:52:19:getYTDLLog
+2016-04-18 12:52:19:reportResult {"action":"getprogress","status":"OK","data":"Waiting for 5678  ... "}
+2016-04-18 12:52:20:initSession
+2016-04-18 12:52:20:End target initSession
+2016-04-18 12:52:20:End initSession
+2016-04-18 12:52:20:-------------------------------------------
+2016-04-18 12:52:20:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:20:getPID PID5714d7ff6f719 
+2016-04-18 12:52:20:PID 5676 CPID 5678
+2016-04-18 12:52:20:ACTION getprogress
+2016-04-18 12:52:20:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:20:getYTDLLog
+2016-04-18 12:52:20:checkProgress lastline  [download]   1.2% of 39.98MiB at  1.14MiB/s ETA 00:34 running running 5678
+2016-04-18 12:52:20:getYTDLLog
+2016-04-18 12:52:20:reportResult {"action":"getprogress","status":"OK","data":"[download]   1.2% of 39.98MiB at  1.14MiB\/s ETA 00:34"}
+2016-04-18 12:52:21:initSession
+2016-04-18 12:52:21:End target initSession
+2016-04-18 12:52:21:End initSession
+2016-04-18 12:52:21:-------------------------------------------
+2016-04-18 12:52:21:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:21:getPID PID5714d7ff6f719 
+2016-04-18 12:52:21:PID 5676 CPID 5678
+2016-04-18 12:52:21:ACTION getprogress
+2016-04-18 12:52:21:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:21:getYTDLLog
+2016-04-18 12:52:21:checkProgress lastline  [download]   5.0% of 39.98MiB at  1.70MiB/s ETA 00:22 running running 5678
+2016-04-18 12:52:21:getYTDLLog
+2016-04-18 12:52:21:reportResult {"action":"getprogress","status":"OK","data":"[download]   5.0% of 39.98MiB at  1.70MiB\/s ETA 00:22"}
+2016-04-18 12:52:22:initSession
+2016-04-18 12:52:22:End target initSession
+2016-04-18 12:52:22:End initSession
+2016-04-18 12:52:22:-------------------------------------------
+2016-04-18 12:52:22:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:22:getPID PID5714d7ff6f719 
+2016-04-18 12:52:22:PID 5676 CPID 5678
+2016-04-18 12:52:22:ACTION getprogress
+2016-04-18 12:52:22:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:22:getYTDLLog
+2016-04-18 12:52:22:checkProgress lastline  [download]  10.0% of 39.98MiB at  1.92MiB/s ETA 00:18 running running 5678
+2016-04-18 12:52:22:getYTDLLog
+2016-04-18 12:52:22:reportResult {"action":"getprogress","status":"OK","data":"[download]  10.0% of 39.98MiB at  1.92MiB\/s ETA 00:18"}
+2016-04-18 12:52:23:initSession
+2016-04-18 12:52:23:End target initSession
+2016-04-18 12:52:23:End initSession
+2016-04-18 12:52:23:-------------------------------------------
+2016-04-18 12:52:23:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:23:getPID PID5714d7ff6f719 
+2016-04-18 12:52:23:PID 5676 CPID 5678
+2016-04-18 12:52:23:ACTION getprogress
+2016-04-18 12:52:23:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:23:getYTDLLog
+2016-04-18 12:52:23:checkProgress lastline  [download]  15.5% of 39.98MiB at  1.76MiB/s ETA 00:19 running running 5678
+2016-04-18 12:52:23:getYTDLLog
+2016-04-18 12:52:23:reportResult {"action":"getprogress","status":"OK","data":"[download]  15.5% of 39.98MiB at  1.76MiB\/s ETA 00:19"}
+2016-04-18 12:52:24:initSession
+2016-04-18 12:52:24:End target initSession
+2016-04-18 12:52:24:End initSession
+2016-04-18 12:52:24:-------------------------------------------
+2016-04-18 12:52:24:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:24:getPID PID5714d7ff6f719 
+2016-04-18 12:52:24:PID 5676 CPID 5678
+2016-04-18 12:52:24:ACTION getprogress
+2016-04-18 12:52:24:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:24:getYTDLLog
+2016-04-18 12:52:24:checkProgress lastline  [download]  19.3% of 39.98MiB at  1.82MiB/s ETA 00:17 running running 5678
+2016-04-18 12:52:24:getYTDLLog
+2016-04-18 12:52:24:reportResult {"action":"getprogress","status":"OK","data":"[download]  19.3% of 39.98MiB at  1.82MiB\/s ETA 00:17"}
+2016-04-18 12:52:25:initSession
+2016-04-18 12:52:25:End target initSession
+2016-04-18 12:52:25:End initSession
+2016-04-18 12:52:25:-------------------------------------------
+2016-04-18 12:52:25:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:25:getPID PID5714d7ff6f719 
+2016-04-18 12:52:25:PID 5676 CPID 5678
+2016-04-18 12:52:25:ACTION getprogress
+2016-04-18 12:52:25:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:25:getYTDLLog
+2016-04-18 12:52:25:checkProgress lastline  [download]  24.6% of 39.98MiB at  1.84MiB/s ETA 00:16 running running 5678
+2016-04-18 12:52:25:getYTDLLog
+2016-04-18 12:52:25:reportResult {"action":"getprogress","status":"OK","data":"[download]  24.6% of 39.98MiB at  1.84MiB\/s ETA 00:16"}
+2016-04-18 12:52:26:initSession
+2016-04-18 12:52:26:End target initSession
+2016-04-18 12:52:26:End initSession
+2016-04-18 12:52:26:-------------------------------------------
+2016-04-18 12:52:26:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:26:getPID PID5714d7ff6f719 
+2016-04-18 12:52:26:PID 5676 CPID 5678
+2016-04-18 12:52:26:ACTION getprogress
+2016-04-18 12:52:26:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:26:getYTDLLog
+2016-04-18 12:52:26:checkProgress lastline  [download]  29.5% of 39.98MiB at  1.93MiB/s ETA 00:14 running running 5678
+2016-04-18 12:52:26:getYTDLLog
+2016-04-18 12:52:26:reportResult {"action":"getprogress","status":"OK","data":"[download]  29.5% of 39.98MiB at  1.93MiB\/s ETA 00:14"}
+2016-04-18 12:52:27:initSession
+2016-04-18 12:52:27:End target initSession
+2016-04-18 12:52:27:End initSession
+2016-04-18 12:52:27:-------------------------------------------
+2016-04-18 12:52:27:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:27:getPID PID5714d7ff6f719 
+2016-04-18 12:52:27:PID 5676 CPID 5678
+2016-04-18 12:52:27:ACTION getprogress
+2016-04-18 12:52:27:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:27:getYTDLLog
+2016-04-18 12:52:27:checkProgress lastline  [download]  35.8% of 39.98MiB at  1.97MiB/s ETA 00:13 running running 5678
+2016-04-18 12:52:27:getYTDLLog
+2016-04-18 12:52:27:reportResult {"action":"getprogress","status":"OK","data":"[download]  35.8% of 39.98MiB at  1.97MiB\/s ETA 00:13"}
+2016-04-18 12:52:28:initSession
+2016-04-18 12:52:28:End target initSession
+2016-04-18 12:52:28:End initSession
+2016-04-18 12:52:28:-------------------------------------------
+2016-04-18 12:52:28:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:28:getPID PID5714d7ff6f719 
+2016-04-18 12:52:28:PID 5676 CPID 5678
+2016-04-18 12:52:28:ACTION getprogress
+2016-04-18 12:52:28:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:28:getYTDLLog
+2016-04-18 12:52:28:checkProgress lastline  [download]  41.2% of 39.98MiB at  2.03MiB/s ETA 00:11 running running 5678
+2016-04-18 12:52:28:getYTDLLog
+2016-04-18 12:52:28:reportResult {"action":"getprogress","status":"OK","data":"[download]  41.2% of 39.98MiB at  2.03MiB\/s ETA 00:11"}
+2016-04-18 12:52:29:initSession
+2016-04-18 12:52:29:End target initSession
+2016-04-18 12:52:29:End initSession
+2016-04-18 12:52:29:-------------------------------------------
+2016-04-18 12:52:29:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:29:getPID PID5714d7ff6f719 
+2016-04-18 12:52:29:PID 5676 CPID 5678
+2016-04-18 12:52:29:ACTION getprogress
+2016-04-18 12:52:29:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:29:getYTDLLog
+2016-04-18 12:52:29:checkProgress lastline  [download]  47.5% of 39.98MiB at  2.07MiB/s ETA 00:10 running running 5678
+2016-04-18 12:52:29:getYTDLLog
+2016-04-18 12:52:29:reportResult {"action":"getprogress","status":"OK","data":"[download]  47.5% of 39.98MiB at  2.07MiB\/s ETA 00:10"}
+2016-04-18 12:52:30:initSession
+2016-04-18 12:52:30:End target initSession
+2016-04-18 12:52:30:End initSession
+2016-04-18 12:52:30:-------------------------------------------
+2016-04-18 12:52:30:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:30:getPID PID5714d7ff6f719 
+2016-04-18 12:52:30:PID 5676 CPID 5678
+2016-04-18 12:52:30:ACTION getprogress
+2016-04-18 12:52:30:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:30:getYTDLLog
+2016-04-18 12:52:30:checkProgress lastline  [download]  53.7% of 39.98MiB at  2.14MiB/s ETA 00:08 running running 5678
+2016-04-18 12:52:30:getYTDLLog
+2016-04-18 12:52:30:reportResult {"action":"getprogress","status":"OK","data":"[download]  53.7% of 39.98MiB at  2.14MiB\/s ETA 00:08"}
+2016-04-18 12:52:31:initSession
+2016-04-18 12:52:31:End target initSession
+2016-04-18 12:52:31:End initSession
+2016-04-18 12:52:31:-------------------------------------------
+2016-04-18 12:52:31:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:31:getPID PID5714d7ff6f719 
+2016-04-18 12:52:31:PID 5676 CPID 5678
+2016-04-18 12:52:31:ACTION getprogress
+2016-04-18 12:52:31:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:31:getYTDLLog
+2016-04-18 12:52:31:checkProgress lastline  [download]  60.8% of 39.98MiB at  2.19MiB/s ETA 00:07 running running 5678
+2016-04-18 12:52:31:getYTDLLog
+2016-04-18 12:52:31:reportResult {"action":"getprogress","status":"OK","data":"[download]  60.8% of 39.98MiB at  2.19MiB\/s ETA 00:07"}
+2016-04-18 12:52:32:initSession
+2016-04-18 12:52:32:End target initSession
+2016-04-18 12:52:32:End initSession
+2016-04-18 12:52:32:-------------------------------------------
+2016-04-18 12:52:32:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:32:getPID PID5714d7ff6f719 
+2016-04-18 12:52:32:PID 5676 CPID 5678
+2016-04-18 12:52:32:ACTION getprogress
+2016-04-18 12:52:32:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:32:getYTDLLog
+2016-04-18 12:52:32:checkProgress lastline  [download]  67.3% of 39.98MiB at  2.24MiB/s ETA 00:05 running running 5678
+2016-04-18 12:52:32:getYTDLLog
+2016-04-18 12:52:32:reportResult {"action":"getprogress","status":"OK","data":"[download]  67.3% of 39.98MiB at  2.24MiB\/s ETA 00:05"}
+2016-04-18 12:52:33:initSession
+2016-04-18 12:52:33:End target initSession
+2016-04-18 12:52:33:End initSession
+2016-04-18 12:52:33:-------------------------------------------
+2016-04-18 12:52:33:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:33:getPID PID5714d7ff6f719 
+2016-04-18 12:52:33:PID 5676 CPID 5678
+2016-04-18 12:52:33:ACTION getprogress
+2016-04-18 12:52:33:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:33:getYTDLLog
+2016-04-18 12:52:33:checkProgress lastline  [download]  67.3% of 39.98MiB at  2.24MiB/s ETA 00:05 running running 5678
+2016-04-18 12:52:33:getYTDLLog
+2016-04-18 12:52:33:reportResult {"action":"getprogress","status":"OK","data":"[download]  67.3% of 39.98MiB at  2.24MiB\/s ETA 00:05"}
+2016-04-18 12:52:34:initSession
+2016-04-18 12:52:34:End target initSession
+2016-04-18 12:52:34:End initSession
+2016-04-18 12:52:34:-------------------------------------------
+2016-04-18 12:52:34:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:34:getPID PID5714d7ff6f719 
+2016-04-18 12:52:34:PID 5676 CPID 5678
+2016-04-18 12:52:34:ACTION getprogress
+2016-04-18 12:52:34:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:34:getYTDLLog
+2016-04-18 12:52:34:checkProgress lastline  [download]  78.8% of 39.98MiB at  2.16MiB/s ETA 00:03 running running 5678
+2016-04-18 12:52:34:getYTDLLog
+2016-04-18 12:52:34:reportResult {"action":"getprogress","status":"OK","data":"[download]  78.8% of 39.98MiB at  2.16MiB\/s ETA 00:03"}
+2016-04-18 12:52:35:initSession
+2016-04-18 12:52:35:End target initSession
+2016-04-18 12:52:35:End initSession
+2016-04-18 12:52:35:-------------------------------------------
+2016-04-18 12:52:35:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:35:getPID PID5714d7ff6f719 
+2016-04-18 12:52:35:PID 5676 CPID 5678
+2016-04-18 12:52:35:ACTION getprogress
+2016-04-18 12:52:35:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:35:getYTDLLog
+2016-04-18 12:52:35:checkProgress lastline  [download]  83.6% of 39.98MiB at  2.13MiB/s ETA 00:03 running running 5678
+2016-04-18 12:52:35:getYTDLLog
+2016-04-18 12:52:35:reportResult {"action":"getprogress","status":"OK","data":"[download]  83.6% of 39.98MiB at  2.13MiB\/s ETA 00:03"}
+2016-04-18 12:52:36:initSession
+2016-04-18 12:52:36:End target initSession
+2016-04-18 12:52:36:End initSession
+2016-04-18 12:52:36:-------------------------------------------
+2016-04-18 12:52:36:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:36:getPID PID5714d7ff6f719 
+2016-04-18 12:52:36:PID 5676 CPID 5678
+2016-04-18 12:52:36:ACTION getprogress
+2016-04-18 12:52:36:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:36:getYTDLLog
+2016-04-18 12:52:36:checkProgress lastline  [download]  83.6% of 39.98MiB at  2.13MiB/s ETA 00:03 running running 5678
+2016-04-18 12:52:36:getYTDLLog
+2016-04-18 12:52:36:reportResult {"action":"getprogress","status":"OK","data":"[download]  83.6% of 39.98MiB at  2.13MiB\/s ETA 00:03"}
+2016-04-18 12:52:37:initSession
+2016-04-18 12:52:37:End target initSession
+2016-04-18 12:52:37:End initSession
+2016-04-18 12:52:37:-------------------------------------------
+2016-04-18 12:52:37:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:37:getPID PID5714d7ff6f719 
+2016-04-18 12:52:37:PID 5676 CPID 5678
+2016-04-18 12:52:37:ACTION getprogress
+2016-04-18 12:52:37:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:37:getYTDLLog
+2016-04-18 12:52:37:checkProgress lastline  [download]  92.3% of 39.98MiB at  2.11MiB/s ETA 00:01 running running 5678
+2016-04-18 12:52:37:getYTDLLog
+2016-04-18 12:52:37:reportResult {"action":"getprogress","status":"OK","data":"[download]  92.3% of 39.98MiB at  2.11MiB\/s ETA 00:01"}
+2016-04-18 12:52:38:initSession
+2016-04-18 12:52:38:End target initSession
+2016-04-18 12:52:38:End initSession
+2016-04-18 12:52:38:-------------------------------------------
+2016-04-18 12:52:38:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:38:getPID PID5714d7ff6f719 
+2016-04-18 12:52:38:PID 5676 CPID 5678
+2016-04-18 12:52:38:ACTION getprogress
+2016-04-18 12:52:38:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:38:getYTDLLog
+2016-04-18 12:52:38:checkProgress lastline  [download]  98.0% of 39.98MiB at  2.11MiB/s ETA 00:00 running running 5678
+2016-04-18 12:52:38:getYTDLLog
+2016-04-18 12:52:38:reportResult {"action":"getprogress","status":"OK","data":"[download]  98.0% of 39.98MiB at  2.11MiB\/s ETA 00:00"}
+2016-04-18 12:52:39:initSession
+2016-04-18 12:52:39:End target initSession
+2016-04-18 12:52:39:End initSession
+2016-04-18 12:52:39:-------------------------------------------
+2016-04-18 12:52:39:YoutubeDownload initializes current ID 5714d7ff6f719
+2016-04-18 12:52:39:getPID PID5714d7ff6f719 
+2016-04-18 12:52:39:PID 5676 CPID 
+2016-04-18 12:52:39:ACTION getprogress
+2016-04-18 12:52:39:start checkProgress YT5714d7ff6f719.log
+2016-04-18 12:52:39:getYTDLLog
+2016-04-18 12:52:39:checkProgress lastline   running ready 
+2016-04-18 12:52:39:getYTDLLog
+2016-04-18 12:52:39:processYTFiles
+2016-04-18 12:52:39:start createFiles /Users/gerard/youtubedownload/temp/5714d7ff6f719
+2016-04-18 12:52:39:start processFiles Resource id #24
+2016-04-18 12:52:39:rename files
+2016-04-18 12:52:39:rename .
+2016-04-18 12:52:39:rename ..
+2016-04-18 12:52:39:rename -EOpEDmxTDM.info.json
+2016-04-18 12:52:39:rename -EOpEDmxTDM.mp4
+2016-04-18 12:52:39:rename A5eIRDPUx_k.info.json
+2016-04-18 12:52:39:rename A5eIRDPUx_k.mp4
+2016-04-18 12:52:39:rename b_VRJa9rjso.info.json
+2016-04-18 12:52:39:rename b_VRJa9rjso.mp4
+2016-04-18 12:52:39:rename CjbGeoQV7Lk.info.json
+2016-04-18 12:52:39:rename CjbGeoQV7Lk.mp4
+2016-04-18 12:52:39:rename dzudQVAVVQ0.info.json
+2016-04-18 12:52:39:rename dzudQVAVVQ0.mp4
+2016-04-18 12:52:39:rename Frtax3pXPtg.info.json
+2016-04-18 12:52:39:rename Frtax3pXPtg.mp4
+2016-04-18 12:52:39:rename qtwz81uG47k.info.json
+2016-04-18 12:52:39:rename qtwz81uG47k.mp4
+2016-04-18 12:52:39:rename TH0ZXfmjRqE.info.json
+2016-04-18 12:52:39:rename TH0ZXfmjRqE.mp4
+2016-04-18 12:52:39:rename vl4XOzGxLDk.info.json
+2016-04-18 12:52:39:rename vl4XOzGxLDk.mp4
+2016-04-18 12:52:39:rename z-TUOiJVaYk.info.json
+2016-04-18 12:52:39:rename z-TUOiJVaYk.mp4
+2016-04-18 12:52:39:remove JSONfiles
+2016-04-18 12:52:39:remove -EOpEDmxTDM.info.json
+2016-04-18 12:52:39:remove A5eIRDPUx_k.info.json
+2016-04-18 12:52:39:remove b_VRJa9rjso.info.json
+2016-04-18 12:52:39:remove CjbGeoQV7Lk.info.json
+2016-04-18 12:52:39:remove dzudQVAVVQ0.info.json
+2016-04-18 12:52:39:remove Frtax3pXPtg.info.json
+2016-04-18 12:52:39:remove qtwz81uG47k.info.json
+2016-04-18 12:52:39:remove TH0ZXfmjRqE.info.json
+2016-04-18 12:52:39:remove vl4XOzGxLDk.info.json
+2016-04-18 12:52:39:remove z-TUOiJVaYk.info.json
+2016-04-18 12:52:39:end createFiles 
+2016-04-18 12:52:39:CleanUp
+2016-04-18 12:52:39:getPID PID5714d7ff6f719 
+2016-04-18 12:52:39:PID 5676 CPID 
+2016-04-18 12:52:39:kill process 5676 []
+2016-04-18 12:52:39:reportResult {"action":"getprogress","status":"OK","data":"EXECUTION_COMPLETE"}
